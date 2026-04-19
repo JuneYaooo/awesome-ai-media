@@ -1,0 +1,20 @@
+# Awesome AI Media
+
+> The most comprehensive open-source directory of AI video creation and social media automation tools, maintained since 2024.
+
+## Docs
+
+- [Tool Directory](https://github.com/JuneYaooo/awesome-ai-media/blob/main/README.md): Complete categorized list of all tools
+- [Chinese Version](https://github.com/JuneYaooo/awesome-ai-media-cn/blob/main/README.md): 中文版合集
+
+## Categories
+
+- [One-Click Video Generation](https://github.com/JuneYaooo/awesome-ai-media#one-click-video-generation): Auto-generate short videos from a topic
+- [AI Text-to-Video Models](https://github.com/JuneYaooo/awesome-ai-media#ai-text-to-video-models): Open-source video generation models
+- [Social Media Automation](https://github.com/JuneYaooo/awesome-ai-media#social-media-automation): Scheduling and multi-platform publishing
+- [Subtitle and Localization](https://github.com/JuneYaooo/awesome-ai-media#subtitle-and-localization): Transcription, translation, and dubbing
+
+## Related
+
+- [AI Media Skills](https://github.com/JuneYaooo/awesome-ai-media-skills): Claude Code skills and MCP servers for media
+- [Contributing Guide](https://github.com/JuneYaooo/awesome-ai-media/blob/main/CONTRIBUTING.md): How to contribute
