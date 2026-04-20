@@ -16,6 +16,9 @@
 - [Social Media Automation](#social-media-automation)
 - [Social Media Crawlers](#social-media-crawlers)
 - [Subtitle and Localization](#subtitle-and-localization)
+- [AI Short Drama Generation](#ai-short-drama-generation)
+- [AI Video Analysis and Notes](#ai-video-analysis-and-notes)
+- [AI Digital Human](#ai-digital-human)
 - [Programmatic Video Creation](#programmatic-video-creation)
 - [Video Editing Libraries](#video-editing-libraries)
 - [FAQ](#faq)
@@ -30,6 +33,11 @@
 | [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | ![](https://img.shields.io/github/stars/FujiwaraChoki/MoneyPrinter?style=flat-square) | ⭐ B | Automates YouTube Shorts / TikTok video creation from a topic |
 | [ShortGPT](https://github.com/RayVentura/ShortGPT) | ![](https://img.shields.io/github/stars/RayVentura/ShortGPT?style=flat-square) | ⭐ B | AI framework for automating short-form content creation |
 | [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | ![](https://img.shields.io/github/stars/elebumm/RedditVideoMakerBot?style=flat-square) | ⭐ B | Turn Reddit posts into TikTok/Shorts-style narrated videos |
+| [NarratoAI](https://github.com/linyqh/NarratoAI) | ![](https://img.shields.io/github/stars/linyqh/NarratoAI?style=flat-square) | ⭐ A | One-click AI narration and video editing — auto script, voiceover, and assembly |
+| [MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus) | ![](https://img.shields.io/github/stars/ddean2009/MoneyPrinterPlus?style=flat-square) | ⭐ B | Batch AI short video generator — supports multiple platforms and LLMs |
+| [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | ![](https://img.shields.io/github/stars/AIDC-AI/Pixelle-Video?style=flat-square) | ⭐ B | Fully automated AI short video engine — end-to-end generation pipeline |
+| [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | ![](https://img.shields.io/github/stars/YILS-LIN/short-video-factory?style=flat-square) | ⭐ B | One-click product marketing short video generator |
+| [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) | ![](https://img.shields.io/github/stars/Norsico/Video-Materials-AutoGEN-Workstation?style=flat-square) | ⭐ C | Short video generation workstation with material auto-sourcing |
 
 ## AI Text-to-Video Models
 
@@ -48,6 +56,7 @@
 |---------|-------|-------|-------------|
 | [Postiz](https://github.com/gitroomhq/postiz-app) | ![](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square) | ⭐ A | Open-source social media scheduling — alternative to Buffer/Hootsuite |
 | [social-auto-upload](https://github.com/dreammis/social-auto-upload) | ![](https://img.shields.io/github/stars/dreammis/social-auto-upload?style=flat-square) | ⭐ B | Auto-upload videos to Douyin, TikTok, Bilibili, Kuaishou, Xiaohongshu |
+| [video-mover](https://github.com/toki-plus/video-mover) | ![](https://img.shields.io/github/stars/toki-plus/video-mover?style=flat-square) | ⭐ C | Fully automated short video cross-platform reposting tool |
 
 ## Social Media Crawlers
 
@@ -60,8 +69,30 @@
 | Project | Stars | Grade | Description |
 |---------|-------|-------|-------------|
 | [VideoLingo](https://github.com/Huanshere/VideoLingo) | ![](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=flat-square) | ⭐ A | All-in-one video translation — Netflix-quality subtitles, dubbing, alignment |
+| [KrillinAI](https://github.com/krillinai/KrillinAI) | ![](https://img.shields.io/github/stars/krillinai/KrillinAI?style=flat-square) | ⭐ A | Video translation and dubbing tool powered by AI — multi-language support |
+| [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) | ![](https://img.shields.io/github/stars/YaoFANGUK/video-subtitle-remover?style=flat-square) | ⭐ A | AI-powered hard subtitle and watermark removal from videos |
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | ![](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=flat-square) | ⭐ A | 4x faster Whisper for transcription and subtitle generation |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square) | ⭐ A | High-performance C/C++ port of Whisper — runs on CPU and Apple Silicon |
+
+## AI Short Drama Generation
+
+| Project | Stars | Grade | Description |
+|---------|-------|-------|-------------|
+| [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | ![](https://img.shields.io/github/stars/chatfire-AI/huobao-drama?style=flat-square) | ⭐ A | Generate complete short dramas from a single sentence prompt |
+| [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | ![](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square) | ⭐ A | AI short drama and comic strip generator |
+
+## AI Video Analysis and Notes
+
+| Project | Stars | Grade | Description |
+|---------|-------|-------|-------------|
+| [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) | ![](https://img.shields.io/github/stars/JimmyLv/BibiGPT-v1?style=flat-square) | ⭐ A | One-click AI video summary — supports Bilibili, YouTube, podcasts |
+| [BiliNote](https://github.com/JefferyHcool/BiliNote) | ![](https://img.shields.io/github/stars/JefferyHcool/BiliNote?style=flat-square) | ⭐ A | AI-powered video note generation from Bilibili and other platforms |
+
+## AI Digital Human
+
+| Project | Stars | Grade | Description |
+|---------|-------|-------|-------------|
+| [aigcpanel](https://github.com/modstart-lib/aigcpanel) | ![](https://img.shields.io/github/stars/modstart-lib/aigcpanel?style=flat-square) | ⭐ B | AIGC digital human system — AI avatar and virtual presenter |
 
 ## Programmatic Video Creation
 
