@@ -67,6 +67,7 @@
 | [PostBot](https://github.com/gitcoffee-os/postbot) | ![](https://img.shields.io/github/stars/gitcoffee-os/postbot?style=flat-square) | ⭐ B | Multi-platform content sync assistant for articles, notes, images, video, and audio across major Chinese and international publishing platforms |
 | [social-media-kit](https://github.com/terrytangyuan/social-media-kit) | ![](https://img.shields.io/github/stars/terrytangyuan/social-media-kit?style=flat-square) | ⭐ B | Self-hosted social media composer and direct publisher for LinkedIn, X, Bluesky, and Mastodon, with OAuth setup, formatting helpers, reminders, and Docker deployment. |
 | [Post4U](https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts) | ![](https://img.shields.io/github/stars/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts?style=flat-square) | ⭐ B | Self-hosted cross-posting dashboard for X, Reddit, Telegram, Discord, and Bluesky with scheduling, previews, media uploads, and an API-first FastAPI backend. |
+| [Cyber Collector](https://t.me/cybercollectorbot) | — | ⭐ B | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube + Shorts, X/Twitter, and Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io) |
 
 ## Social Media Crawlers
 
