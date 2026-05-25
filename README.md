@@ -43,6 +43,7 @@
 | [YumCut](https://github.com/IgorShadurin/app.yumcut.com) | ![](https://img.shields.io/github/stars/IgorShadurin/app.yumcut.com?style=flat-square) | ⭐ B | Self-hosted AI short-video generator for TikTok, YouTube Shorts, and Reels — turns prompts into scripts, scenes, voiceover, captions, and finished 9:16 videos with batch rendering and API hooks |
 | [AI YouTube Shorts Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) | ![](https://img.shields.io/github/stars/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square) | ⭐ A- | AI clipping tool that turns long-form YouTube videos into Shorts/TikTok/Reels-ready vertical clips using LLM highlight ranking, local Whisper transcription, smart dedupe, and automatic cropping. |
 
+
 ## AI Text-to-Video Models
 
 | Project | Stars | Grade | Description |
@@ -55,6 +56,8 @@
 | [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | ![](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-1.5?style=flat-square) | ⭐ A | Tencent's lightweight 8.3B video generation model with consumer-GPU inference, open weights, training/inference code, ComfyUI support, and prompt handbooks |
 | [AnimateDiff](https://github.com/guoyww/AnimateDiff) | ![](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=flat-square) | ⭐ B | Animate personalized text-to-image models into video clips |
 
+
+
 ## Social Media Automation
 
 | Project | Stars | Grade | Description |
@@ -65,6 +68,7 @@
 | [video-mover](https://github.com/toki-plus/video-mover) | ![](https://img.shields.io/github/stars/toki-plus/video-mover?style=flat-square) | ⭐ C | Fully automated short video cross-platform reposting tool |
 | [BrightBean Studio](https://github.com/brightbeanxyz/brightbean-studio) | ![](https://img.shields.io/github/stars/brightbeanxyz/brightbean-studio?style=flat-square) | ⭐ A | Self-hosted social media management platform for creators and agencies — scheduling, approval, publishing, analytics, and multi-workspace collaboration across 10+ platforms |
 | [YTB2BILI](https://github.com/difyz9/ytb2bili) | ![](https://img.shields.io/github/stars/difyz9/ytb2bili?style=flat-square) | ⭐ B | End-to-end YouTube/TikTok to Bilibili reposting pipeline with auto download, Whisper subtitles, AI translation, metadata generation, scheduling, and web dashboard |
+
 | [PostBot](https://github.com/gitcoffee-os/postbot) | ![](https://img.shields.io/github/stars/gitcoffee-os/postbot?style=flat-square) | ⭐ B | Multi-platform content sync assistant for articles, notes, images, video, and audio across major Chinese and international publishing platforms |
 | [social-media-kit](https://github.com/terrytangyuan/social-media-kit) | ![](https://img.shields.io/github/stars/terrytangyuan/social-media-kit?style=flat-square) | ⭐ B | Self-hosted social media composer and direct publisher for LinkedIn, X, Bluesky, and Mastodon, with OAuth setup, formatting helpers, reminders, and Docker deployment. |
 | [Post4U](https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts) | ![](https://img.shields.io/github/stars/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts?style=flat-square) | ⭐ B | Self-hosted cross-posting dashboard for X, Reddit, Telegram, Discord, and Bluesky with scheduling, previews, media uploads, and an API-first FastAPI backend. |
@@ -99,6 +103,7 @@
 
 | Project | Stars | Grade | Description |
 |---------|-------|-------|-------------|
+
 | [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | ![](https://img.shields.io/github/stars/chatfire-AI/huobao-drama?style=flat-square) | ⭐ A | Generate complete short dramas from a single sentence prompt |
 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | ![](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square) | ⭐ A | AI short drama and comic strip generator |
 | [ArcReel](https://github.com/ArcReel/ArcReel) | ![](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square) | ⭐ A | Open-source AI video workspace for turning novels and story ideas into scripts, storyboards, assets, and short-form videos with agent orchestration |
