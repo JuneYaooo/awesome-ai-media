@@ -42,6 +42,7 @@
 | [OpenStory](https://github.com/openstory-so/openstory) | ![](https://img.shields.io/github/stars/openstory-so/openstory?style=flat-square) | ⭐ B | AI video-sequence platform that turns scripts into scene breakdowns, generated visuals, motion clips, and styled productions, with CI-backed TypeScript app architecture and edge-deployment support. |
 | [YumCut](https://github.com/IgorShadurin/app.yumcut.com) | ![](https://img.shields.io/github/stars/IgorShadurin/app.yumcut.com?style=flat-square) | ⭐ B | Self-hosted AI short-video generator for TikTok, YouTube Shorts, and Reels — turns prompts into scripts, scenes, voiceover, captions, and finished 9:16 videos with batch rendering and API hooks |
 | [AI YouTube Shorts Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) | ![](https://img.shields.io/github/stars/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square) | ⭐ A- | AI clipping tool that turns long-form YouTube videos into Shorts/TikTok/Reels-ready vertical clips using LLM highlight ranking, local Whisper transcription, smart dedupe, and automatic cropping. |
+| [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | ![](https://img.shields.io/github/stars/Anil-matcha/Open-Generative-AI?style=flat-square) | ⭐ C | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
 
 ## AI Text-to-Video Models
 
@@ -54,6 +55,9 @@
 | [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | ![](https://img.shields.io/github/stars/Tencent/HunyuanVideo?style=flat-square) | ⭐ B | Tencent's large-scale open video generation model |
 | [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | ![](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-1.5?style=flat-square) | ⭐ A | Tencent's lightweight 8.3B video generation model with consumer-GPU inference, open weights, training/inference code, ComfyUI support, and prompt handbooks |
 | [AnimateDiff](https://github.com/guoyww/AnimateDiff) | ![](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=flat-square) | ⭐ B | Animate personalized text-to-image models into video clips |
+| [diffusers](https://github.com/huggingface/diffusers) | ![](https://img.shields.io/github/stars/huggingface/diffusers?style=flat-square) | ⭐ C | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. |
+| [Lance](https://github.com/bytedance/Lance) | ![](https://img.shields.io/github/stars/bytedance/Lance?style=flat-square) | ⭐ C | A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing. |
+| [Sana](https://github.com/NVlabs/Sana) | ![](https://img.shields.io/github/stars/NVlabs/Sana?style=flat-square) | ⭐ C | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
 
 ## Social Media Automation
 
@@ -99,6 +103,7 @@
 
 | Project | Stars | Grade | Description |
 |---------|-------|-------|-------------|
+| [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) | ![](https://img.shields.io/github/stars/Anil-matcha/Open-AI-Micro-Drama-Generator?style=flat-square) | ⭐ C | AI short drama & micro-drama video generator — turns any idea into a complete short-form drama using multi-agent AI pipeline (screenwriter → storyboard → frames → video). Seedance 2 VIP, Kling 3.0 ... |
 | [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | ![](https://img.shields.io/github/stars/chatfire-AI/huobao-drama?style=flat-square) | ⭐ A | Generate complete short dramas from a single sentence prompt |
 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | ![](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square) | ⭐ A | AI short drama and comic strip generator |
 | [ArcReel](https://github.com/ArcReel/ArcReel) | ![](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square) | ⭐ A | Open-source AI video workspace for turning novels and story ideas into scripts, storyboards, assets, and short-form videos with agent orchestration |
