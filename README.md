@@ -43,6 +43,7 @@
 | [YumCut](https://github.com/IgorShadurin/app.yumcut.com) | ![](https://img.shields.io/github/stars/IgorShadurin/app.yumcut.com?style=flat-square) | ⭐ B | Self-hosted AI short-video generator for TikTok, YouTube Shorts, and Reels — turns prompts into scripts, scenes, voiceover, captions, and finished 9:16 videos with batch rendering and API hooks |
 | [AI YouTube Shorts Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) | ![](https://img.shields.io/github/stars/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square) | ⭐ A- | AI clipping tool that turns long-form YouTube videos into Shorts/TikTok/Reels-ready vertical clips using LLM highlight ranking, local Whisper transcription, smart dedupe, and automatic cropping. |
 | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | ![](https://img.shields.io/github/stars/Anil-matcha/Open-Generative-AI?style=flat-square) | ⭐ C | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| [ClippedAI](https://github.com/Shaarav4795/ClippedAI) | ![](https://img.shields.io/github/stars/Shaarav4795/ClippedAI?style=flat-square) | ⭐ B | Open-source alternative to OpusClip — AI-powered YouTube Shorts generator with 100% local processing |
 
 ## AI Text-to-Video Models
 
@@ -58,6 +59,7 @@
 | [diffusers](https://github.com/huggingface/diffusers) | ![](https://img.shields.io/github/stars/huggingface/diffusers?style=flat-square) | ⭐ C | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. |
 | [Lance](https://github.com/bytedance/Lance) | ![](https://img.shields.io/github/stars/bytedance/Lance?style=flat-square) | ⭐ C | A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing. |
 | [Sana](https://github.com/NVlabs/Sana) | ![](https://img.shields.io/github/stars/NVlabs/Sana?style=flat-square) | ⭐ C | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [Helios](https://github.com/PKU-YuanGroup/Helios) | ![](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=flat-square) | ⭐ B | PKU-YuanGroup real-time long video generation model with open weights |
 
 ## Social Media Automation
 
