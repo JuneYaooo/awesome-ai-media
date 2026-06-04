@@ -44,6 +44,10 @@
 | [AI YouTube Shorts Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) | ![](https://img.shields.io/github/stars/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square) | ⭐ A- | AI clipping tool that turns long-form YouTube videos into Shorts/TikTok/Reels-ready vertical clips using LLM highlight ranking, local Whisper transcription, smart dedupe, and automatic cropping. |
 | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | ![](https://img.shields.io/github/stars/Anil-matcha/Open-Generative-AI?style=flat-square) | ⭐ C | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
 | [ClippedAI](https://github.com/Shaarav4795/ClippedAI) | ![](https://img.shields.io/github/stars/Shaarav4795/ClippedAI?style=flat-square) | ⭐ B | Open-source alternative to OpusClip — AI-powered YouTube Shorts generator with 100% local processing |
+| [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) | ![](https://img.shields.io/github/stars/SamurAIGPT/muapi-cli?style=flat-square) | ⭐ B+ | Official CLI for muapi.ai — generate images, videos and audio from the terminal. MCP server with 14 AI models. |
+| [infinite-canvas](https://github.com/basketikun/infinite-canvas) | ![](https://img.shields.io/github/stars/basketikun/infinite-canvas?style=flat-square) | ⭐ B | AI-powered infinite canvas workspace integrating image generation, reference editing, video generation, canvas orchestration, and prompt library. Compatible with OpenAI/Grok/FLOW APIs. |
+| [ralphy](https://github.com/alecs5am/ralphy) | ![](https://img.shields.io/github/stars/alecs5am/ralphy?style=flat-square) | ⭐ C+ | Create viral videos with AI agents. Automates ideation, scripting, and video assembly for social media platforms. |
+| [AI-video-Replicate](https://github.com/xiaohuihui202504/AI-video-Replicate) | ![](https://img.shields.io/github/stars/xiaohuihui202504/AI-video-Replicate?style=flat-square) | ⭐ C | Gradio-based AI video generation frontend supporting Seedance, Sora2 models for text-to-video and image-to-video with model provider switching. |
 
 ## AI Text-to-Video Models
 
@@ -60,6 +64,7 @@
 | [Lance](https://github.com/bytedance/Lance) | ![](https://img.shields.io/github/stars/bytedance/Lance?style=flat-square) | ⭐ C | A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing. |
 | [Sana](https://github.com/NVlabs/Sana) | ![](https://img.shields.io/github/stars/NVlabs/Sana?style=flat-square) | ⭐ C | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
 | [Helios](https://github.com/PKU-YuanGroup/Helios) | ![](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=flat-square) | ⭐ B | PKU-YuanGroup real-time long video generation model with open weights |
+| [vllm-omni](https://github.com/vllm-project/vllm-omni) | ![](https://img.shields.io/github/stars/vllm-project/vllm-omni?style=flat-square) | ⭐ B+ | Framework for efficient model inference with omni-modality models including text-to-video, image-to-video, and multimodal generation pipelines. |
 
 ## Social Media Automation
 
@@ -81,6 +86,9 @@
 |---------|-------|-------|-------------|
 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | ![](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style=flat-square) | ⭐ A | Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili, and Weibo |
 | [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) | ![](https://img.shields.io/github/stars/zerodytrash/TikTok-Live-Connector?style=flat-square) | ⭐ B | Node.js library for real-time TikTok LIVE events such as comments, gifts, and member activity — useful for creator analytics, moderation bots, and livestream automations. |
+| [pytok](https://github.com/MEOMcGill/pytok) | ![](https://img.shields.io/github/stars/MEOMcGill/pytok?style=flat-square) | ⭐ C+ | Web scraper for TikTok — extract video metadata, comments, and user data programmatically with Python. |
+| [ParseHub](https://github.com/z-mio/ParseHub) | ![](https://img.shields.io/github/stars/z-mio/ParseHub?style=flat-square) | ⭐ C+ | 轻量、异步、开箱即用的社交媒体聚合解析库，支持多平台内容提取。Lightweight async social media aggregation and parsing library. |
+| [x-web-crawler](https://github.com/jacobsomer/x-web-crawler) | ![](https://img.shields.io/github/stars/jacobsomer/x-web-crawler?style=flat-square) | ⭐ C+ | Python package for automated interactions on social media platforms like Twitter/X, with stealth-grade browser automation and data extraction. |
 
 ## Subtitle and Localization
 
@@ -140,6 +148,7 @@
 | [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) | ![](https://img.shields.io/github/stars/kkroening/ffmpeg-python?style=flat-square) | ⭐ B | Pythonic wrapper for FFmpeg — clean API for video/audio processing |
 | [PyAV](https://github.com/PyAV-Org/PyAV) | ![](https://img.shields.io/github/stars/PyAV-Org/PyAV?style=flat-square) | ⭐ A | Pythonic FFmpeg bindings with wheels, docs, examples, and tests for low-level video/audio processing pipelines. |
 | [libopenshot](https://github.com/OpenShot/libopenshot) | ![](https://img.shields.io/github/stars/OpenShot/libopenshot?style=flat-square) | ⭐ B | Cross-platform C++ video editing and animation library with Python/Ruby bindings, FFmpeg support, hardware acceleration, and bundled examples/tests. |
+| [etro](https://github.com/etro-js/etro) | ![](https://img.shields.io/github/stars/etro-js/etro?style=flat-square) | ⭐ B+ | TypeScript video-editing framework for the browser. Full video compositing and effects pipeline with canvas-based rendering. |
 
 ---
 
