@@ -79,6 +79,8 @@
 | [PostBot](https://github.com/gitcoffee-os/postbot) | ![](https://img.shields.io/github/stars/gitcoffee-os/postbot?style=flat-square) | ⭐ B | Multi-platform content sync assistant for articles, notes, images, video, and audio across major Chinese and international publishing platforms |
 | [social-media-kit](https://github.com/terrytangyuan/social-media-kit) | ![](https://img.shields.io/github/stars/terrytangyuan/social-media-kit?style=flat-square) | ⭐ B | Self-hosted social media composer and direct publisher for LinkedIn, X, Bluesky, and Mastodon, with OAuth setup, formatting helpers, reminders, and Docker deployment. |
 | [Post4U](https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts) | ![](https://img.shields.io/github/stars/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts?style=flat-square) | ⭐ B | Self-hosted cross-posting dashboard for X, Reddit, Telegram, Discord, and Bluesky with scheduling, previews, media uploads, and an API-first FastAPI backend. |
+| [Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) | ![](https://img.shields.io/github/stars/Anil-matcha/Free-AI-Social-Media-Scheduler?style=flat-square) | ⭐ B+ | Free open-source AI social media scheduler — self-hostable alternative to Postiz/Buffer. Supports multi-platform scheduling with AI-powered content optimization and analytics. |
+| [trypost](https://github.com/trypostit/trypost) | ![](https://img.shields.io/github/stars/trypostit/trypost?style=flat-square) | ⭐ B- | Open-source social media scheduling platform with multi-account management, post queuing, and cross-platform publishing for teams and agencies. |
 
 ## Social Media Crawlers
 
@@ -149,6 +151,7 @@
 | [PyAV](https://github.com/PyAV-Org/PyAV) | ![](https://img.shields.io/github/stars/PyAV-Org/PyAV?style=flat-square) | ⭐ A | Pythonic FFmpeg bindings with wheels, docs, examples, and tests for low-level video/audio processing pipelines. |
 | [libopenshot](https://github.com/OpenShot/libopenshot) | ![](https://img.shields.io/github/stars/OpenShot/libopenshot?style=flat-square) | ⭐ B | Cross-platform C++ video editing and animation library with Python/Ruby bindings, FFmpeg support, hardware acceleration, and bundled examples/tests. |
 | [etro](https://github.com/etro-js/etro) | ![](https://img.shields.io/github/stars/etro-js/etro?style=flat-square) | ⭐ B+ | TypeScript video-editing framework for the browser. Full video compositing and effects pipeline with canvas-based rendering. |
+| [Cliparr](https://github.com/TechSquidTV/Cliparr) | ![](https://img.shields.io/github/stars/TechSquidTV/Cliparr?style=flat-square) | ⭐ C+ | Create clips from media on your personal media server. Automated clip generation with configurable trimming, format conversion, and batch processing for Plex/Jellyfin libraries. |
 
 ---
 
