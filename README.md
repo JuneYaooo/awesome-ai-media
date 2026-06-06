@@ -48,6 +48,7 @@
 | [infinite-canvas](https://github.com/basketikun/infinite-canvas) | ![](https://img.shields.io/github/stars/basketikun/infinite-canvas?style=flat-square) | ⭐ B | AI-powered infinite canvas workspace integrating image generation, reference editing, video generation, canvas orchestration, and prompt library. Compatible with OpenAI/Grok/FLOW APIs. |
 | [ralphy](https://github.com/alecs5am/ralphy) | ![](https://img.shields.io/github/stars/alecs5am/ralphy?style=flat-square) | ⭐ C+ | Create viral videos with AI agents. Automates ideation, scripting, and video assembly for social media platforms. |
 | [AI-video-Replicate](https://github.com/xiaohuihui202504/AI-video-Replicate) | ![](https://img.shields.io/github/stars/xiaohuihui202504/AI-video-Replicate?style=flat-square) | ⭐ C | Gradio-based AI video generation frontend supporting Seedance, Sora2 models for text-to-video and image-to-video with model provider switching. |
+| [Nexior](https://github.com/AceDataCloud/Nexior) | ![](https://img.shields.io/github/stars/AceDataCloud/Nexior?style=flat-square) | ⭐ B | Consumer AI app for chat, image generation, video generation, and music creation. Multi-model unified interface for one-click creative content production. |
 
 ## AI Text-to-Video Models
 
