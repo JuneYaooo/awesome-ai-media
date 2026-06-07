@@ -153,6 +153,7 @@
 | [libopenshot](https://github.com/OpenShot/libopenshot) | ![](https://img.shields.io/github/stars/OpenShot/libopenshot?style=flat-square) | ⭐ B | Cross-platform C++ video editing and animation library with Python/Ruby bindings, FFmpeg support, hardware acceleration, and bundled examples/tests. |
 | [etro](https://github.com/etro-js/etro) | ![](https://img.shields.io/github/stars/etro-js/etro?style=flat-square) | ⭐ B+ | TypeScript video-editing framework for the browser. Full video compositing and effects pipeline with canvas-based rendering. |
 | [Cliparr](https://github.com/TechSquidTV/Cliparr) | ![](https://img.shields.io/github/stars/TechSquidTV/Cliparr?style=flat-square) | ⭐ C+ | Create clips from media on your personal media server. Automated clip generation with configurable trimming, format conversion, and batch processing for Plex/Jellyfin libraries. |
+| [auto-editor](https://github.com/WyattBlue/auto-editor) | ![](https://img.shields.io/github/stars/WyattBlue/auto-editor?style=flat-square) | ⭐ B+ | Effort-free video editing — automatically cuts silences, dead spaces, and boring sections from videos. Fast Nim-based CLI with Python bindings for batch processing and programmatic editing pipelines. |
 
 ---
 
