@@ -66,6 +66,7 @@
 | [Sana](https://github.com/NVlabs/Sana) | ![](https://img.shields.io/github/stars/NVlabs/Sana?style=flat-square) | ⭐ C | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
 | [Helios](https://github.com/PKU-YuanGroup/Helios) | ![](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=flat-square) | ⭐ B | PKU-YuanGroup real-time long video generation model with open weights |
 | [vllm-omni](https://github.com/vllm-project/vllm-omni) | ![](https://img.shields.io/github/stars/vllm-project/vllm-omni?style=flat-square) | ⭐ B+ | Framework for efficient model inference with omni-modality models including text-to-video, image-to-video, and multimodal generation pipelines. |
+| [Cosmos-Predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5) | ![](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict2.5?style=flat-square) | ⭐ B+ | NVIDIA Cosmos World Foundation Models (WFM) — latest version for video prediction, generation, and world-state modeling. State-of-the-art physics-aware video synthesis and forecasting. |
 
 ## Social Media Automation
 
@@ -154,6 +155,7 @@
 | [etro](https://github.com/etro-js/etro) | ![](https://img.shields.io/github/stars/etro-js/etro?style=flat-square) | ⭐ B+ | TypeScript video-editing framework for the browser. Full video compositing and effects pipeline with canvas-based rendering. |
 | [Cliparr](https://github.com/TechSquidTV/Cliparr) | ![](https://img.shields.io/github/stars/TechSquidTV/Cliparr?style=flat-square) | ⭐ C+ | Create clips from media on your personal media server. Automated clip generation with configurable trimming, format conversion, and batch processing for Plex/Jellyfin libraries. |
 | [auto-editor](https://github.com/WyattBlue/auto-editor) | ![](https://img.shields.io/github/stars/WyattBlue/auto-editor?style=flat-square) | ⭐ B+ | Effort-free video editing — automatically cuts silences, dead spaces, and boring sections from videos. Fast Nim-based CLI with Python bindings for batch processing and programmatic editing pipelines. |
+| [Timeline Studio](https://github.com/chatman-media/timeline-studio) | ![](https://img.shields.io/github/stars/chatman-media/timeline-studio?style=flat-square) | ⭐ B- | AI-powered video editing studio with timeline-based editing, intelligent clip arrangement, transitions, effects, and one-click export for content creators. |
 
 ---
 
