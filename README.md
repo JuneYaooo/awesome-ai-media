@@ -67,6 +67,7 @@
 | [Helios](https://github.com/PKU-YuanGroup/Helios) | ![](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=flat-square) | ⭐ B | PKU-YuanGroup real-time long video generation model with open weights |
 | [vllm-omni](https://github.com/vllm-project/vllm-omni) | ![](https://img.shields.io/github/stars/vllm-project/vllm-omni?style=flat-square) | ⭐ B+ | Framework for efficient model inference with omni-modality models including text-to-video, image-to-video, and multimodal generation pipelines. |
 | [Cosmos-Predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5) | ![](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict2.5?style=flat-square) | ⭐ B+ | NVIDIA Cosmos World Foundation Models (WFM) — latest version for video prediction, generation, and world-state modeling. State-of-the-art physics-aware video synthesis and forecasting. |
+| [LightX2V](https://github.com/ModelTC/LightX2V) | ![](https://img.shields.io/github/stars/ModelTC/LightX2V?style=flat-square) | ⭐ B+ | Light Image-to-Video Generation Inference Framework — efficient video diffusion model inference with optimized memory footprint, supporting multiple state-of-the-art I2V models. |
 
 ## Social Media Automation
 
@@ -93,6 +94,8 @@
 | [pytok](https://github.com/MEOMcGill/pytok) | ![](https://img.shields.io/github/stars/MEOMcGill/pytok?style=flat-square) | ⭐ C+ | Web scraper for TikTok — extract video metadata, comments, and user data programmatically with Python. |
 | [ParseHub](https://github.com/z-mio/ParseHub) | ![](https://img.shields.io/github/stars/z-mio/ParseHub?style=flat-square) | ⭐ C+ | 轻量、异步、开箱即用的社交媒体聚合解析库，支持多平台内容提取。Lightweight async social media aggregation and parsing library. |
 | [x-web-crawler](https://github.com/jacobsomer/x-web-crawler) | ![](https://img.shields.io/github/stars/jacobsomer/x-web-crawler?style=flat-square) | ⭐ C+ | Python package for automated interactions on social media platforms like Twitter/X, with stealth-grade browser automation and data extraction. |
+| [TikTokLive](https://github.com/isaackogan/TikTokLive) | ![](https://img.shields.io/github/stars/isaackogan/TikTokLive?style=flat-square) | ⭐ B+ | Definitive Python library for receiving TikTok livestream events — comments, gifts, follows, and shares in real-time. Production-ready with async support and connection pooling. |
+| [skraper](https://github.com/sokomishalov/skraper) | ![](https://img.shields.io/github/stars/sokomishalov/skraper?style=flat-square) | ⭐ B- | Kotlin/Java library and CLI tool for scraping posts and media from various social sources. Multi-platform extraction with built-in rate limiting and retry logic. |
 
 ## Subtitle and Localization
 
