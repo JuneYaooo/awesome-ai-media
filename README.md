@@ -68,6 +68,7 @@
 | [vllm-omni](https://github.com/vllm-project/vllm-omni) | ![](https://img.shields.io/github/stars/vllm-project/vllm-omni?style=flat-square) | ⭐ B+ | Framework for efficient model inference with omni-modality models including text-to-video, image-to-video, and multimodal generation pipelines. |
 | [Cosmos-Predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5) | ![](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict2.5?style=flat-square) | ⭐ B+ | NVIDIA Cosmos World Foundation Models (WFM) — latest version for video prediction, generation, and world-state modeling. State-of-the-art physics-aware video synthesis and forecasting. |
 | [LightX2V](https://github.com/ModelTC/LightX2V) | ![](https://img.shields.io/github/stars/ModelTC/LightX2V?style=flat-square) | ⭐ B+ | Light Image-to-Video Generation Inference Framework — efficient video diffusion model inference with optimized memory footprint, supporting multiple state-of-the-art I2V models. |
+| [daihuo-jianshou](https://github.com/xixihhhh/daihuo-jianshou) | ![](https://img.shields.io/github/stars/xixihhhh/daihuo-jianshou?style=flat-square) | ⭐ C | AI 电商带货视频生成工具 | 上传商品图自动生成抖音/快手/小红书带货短视频，AI 脚本+生图+合成一条龙 | Seedance 2.0 / GPT Image 2 / Kling 3.0 / Veo 3 / Nano Banana 2 / FFmpeg |
 
 ## Social Media Automation
 
