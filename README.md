@@ -49,6 +49,7 @@
 | [ralphy](https://github.com/alecs5am/ralphy) | ![](https://img.shields.io/github/stars/alecs5am/ralphy?style=flat-square) | ⭐ C+ | Create viral videos with AI agents. Automates ideation, scripting, and video assembly for social media platforms. |
 | [AI-video-Replicate](https://github.com/xiaohuihui202504/AI-video-Replicate) | ![](https://img.shields.io/github/stars/xiaohuihui202504/AI-video-Replicate?style=flat-square) | ⭐ C | Gradio-based AI video generation frontend supporting Seedance, Sora2 models for text-to-video and image-to-video with model provider switching. |
 | [Nexior](https://github.com/AceDataCloud/Nexior) | ![](https://img.shields.io/github/stars/AceDataCloud/Nexior?style=flat-square) | ⭐ B | Consumer AI app for chat, image generation, video generation, and music creation. Multi-model unified interface for one-click creative content production. |
+| [clipforge](https://github.com/xixihhhh/clipforge) | ![](https://img.shields.io/github/stars/xixihhhh/clipforge?style=flat-square) | ⭐ C | ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerc... |
 
 ## AI Text-to-Video Models
 
