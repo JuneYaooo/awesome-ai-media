@@ -117,6 +117,7 @@
 | [Open-Lyrics](https://github.com/zh-plus/Open-Lyrics) | ![](https://img.shields.io/github/stars/zh-plus/Open-Lyrics?style=flat-square) | ⭐ B | Python subtitle pipeline that transcribes with Whisper, then translates/polishes into `.lrc` subtitles using LLMs. Includes audio preprocessing, glossary support, bilingual output, tests, and PyPI packaging |
 | [open-dubbing](https://github.com/softcatala/open-dubbing) | ![](https://img.shields.io/github/stars/softcatala/open-dubbing?style=flat-square) | ⭐ B- | Experimental but usable local dubbing CLI that combines Whisper, translation engines, and multiple TTS backends to translate and synchronize spoken audio into new languages. |
 | [LiveTranslate](https://github.com/TheDeathDragon/LiveTranslate) | ![](https://img.shields.io/github/stars/TheDeathDragon/LiveTranslate?style=flat-square) | ⭐ B | Windows real-time audio translation overlay for videos, livestreams, and voice chat, with faster-whisper / SenseVoice ASR, OpenAI-compatible translation APIs, and streaming subtitle display. |
+| [YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) | ![](https://img.shields.io/github/stars/liuzhao1225/YouDub-webui?style=flat-square) | ⭐ C | 开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。 |
 
 ## AI Short Drama Generation
 
