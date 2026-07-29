@@ -72,6 +72,7 @@
 | [LightX2V](https://github.com/ModelTC/LightX2V) | ![](https://img.shields.io/github/stars/ModelTC/LightX2V?style=flat-square) | ⭐ B+ | Light Image-to-Video Generation Inference Framework — efficient video diffusion model inference with optimized memory footprint, supporting multiple state-of-the-art I2V models. |
 | [ltx-video-mac](https://github.com/james-see/ltx-video-mac) | ![](https://img.shields.io/github/stars/james-see/ltx-video-mac?style=flat-square) | ⭐ C | Native macOS app for AI video generation using LTX-Video model, optimized for Apple Silicon |
 | [daihuo-jianshou](https://github.com/xixihhhh/daihuo-jianshou) | ![](https://img.shields.io/github/stars/xixihhhh/daihuo-jianshou?style=flat-square) | ⭐ C | AI 电商带货视频生成工具 | 上传商品图自动生成抖音/快手/小红书带货短视频，AI 脚本+生图+合成一条龙 | Seedance 2.0 / GPT Image 2 / Kling 3.0 / Veo 3 / Nano Banana 2 / FFmpeg |
+| [Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) | ![](https://img.shields.io/github/stars/FurkanGozukara/Stable-Diffusion?style=flat-square) | ⭐ C | FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, Comfy... |
 
 ## Social Media Automation
 
@@ -124,6 +125,7 @@
 | [haoone-app](https://github.com/minghe36/haoone-app) | ![](https://img.shields.io/github/stars/minghe36/haoone-app?style=flat-square) | ⭐ C | 新一代 AI 专业字幕软件，剪映字幕、elevenlabs 语音转文本的最佳本地版平替之一，也是加强版。中英转录识别准确率超过 96%，词语音频对齐率 98%，带有最先进的 ASR 开源模型。专业字幕编辑器、命令行工具、Skill，达芬奇字幕插件，PR 字幕插件，本地转录、远程转录、文稿匹配、智能拆行、AI校正、AI 智能热词、翻译、双语字幕、专业字幕编辑器、字幕合成、自定义大模型 API... |
 | [SubErase-Translate-Embed](https://github.com/chenwr727/SubErase-Translate-Embed) | ![](https://img.shields.io/github/stars/chenwr727/SubErase-Translate-Embed?style=flat-square) | ⭐ C | SubErase-Translate-Embed is an open-source tool that automatically extracts, erases, translates, and embeds subtitles in videos using OCR and AI. SubErase-Translate-Embed 是一个开源工具，能够自动提取、删除、翻译和嵌入视频中... |
 | [SmartSub](https://github.com/buxuku/SmartSub) | ![](https://img.shields.io/github/stars/buxuku/SmartSub?style=flat-square) | ⭐ C | 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Windows / macOS / Linux。Free, open-source desktop app to generate, translate, dub & burn video subtitle... |
+| [dub-studio](https://github.com/timoncool/dub-studio) | ![](https://img.shields.io/github/stars/timoncool/dub-studio?style=flat-square) | ⭐ C | Free offline AI video dubbing studio for Windows — voice cloning, translation, subtitles & on-screen-text localization. 100% local, one native .exe, zero Python. |
 | [YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) | ![](https://img.shields.io/github/stars/liuzhao1225/YouDub-webui?style=flat-square) | ⭐ C | 开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。 |
 
 ## AI Short Drama Generation
@@ -169,6 +171,7 @@
 | [etro](https://github.com/etro-js/etro) | ![](https://img.shields.io/github/stars/etro-js/etro?style=flat-square) | ⭐ B+ | TypeScript video-editing framework for the browser. Full video compositing and effects pipeline with canvas-based rendering. |
 | [Cliparr](https://github.com/TechSquidTV/Cliparr) | ![](https://img.shields.io/github/stars/TechSquidTV/Cliparr?style=flat-square) | ⭐ C+ | Create clips from media on your personal media server. Automated clip generation with configurable trimming, format conversion, and batch processing for Plex/Jellyfin libraries. |
 | [auto-editor](https://github.com/WyattBlue/auto-editor) | ![](https://img.shields.io/github/stars/WyattBlue/auto-editor?style=flat-square) | ⭐ B+ | Effort-free video editing — automatically cuts silences, dead spaces, and boring sections from videos. Fast Nim-based CLI with Python bindings for batch processing and programmatic editing pipelines. |
+| [premiere-pro-mcp](https://github.com/leancoderkavy/premiere-pro-mcp) | ![](https://img.shields.io/github/stars/leancoderkavy/premiere-pro-mcp?style=flat-square) | ⭐ C | Adobe Premiere Pro MCP server with 269 AI video editing tools for timeline automation, effects, media management, and export. |
 | [Timeline Studio](https://github.com/chatman-media/timeline-studio) | ![](https://img.shields.io/github/stars/chatman-media/timeline-studio?style=flat-square) | ⭐ B- | AI-powered video editing studio with timeline-based editing, intelligent clip arrangement, transitions, effects, and one-click export for content creators. |
 
 ---
