@@ -89,6 +89,7 @@
 | [Post4U](https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts) | ![](https://img.shields.io/github/stars/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts?style=flat-square) | ⭐ B | Self-hosted cross-posting dashboard for X, Reddit, Telegram, Discord, and Bluesky with scheduling, previews, media uploads, and an API-first FastAPI backend. |
 | [Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) | ![](https://img.shields.io/github/stars/Anil-matcha/Free-AI-Social-Media-Scheduler?style=flat-square) | ⭐ B+ | Free open-source AI social media scheduler — self-hostable alternative to Postiz/Buffer. Supports multi-platform scheduling with AI-powered content optimization and analytics. |
 | [trypost](https://github.com/trypostit/trypost) | ![](https://img.shields.io/github/stars/trypostit/trypost?style=flat-square) | ⭐ B- | Open-source social media scheduling platform with multi-account management, post queuing, and cross-platform publishing for teams and agencies. |
+| [socialclaw](https://github.com/ndesv21/socialclaw) | ![](https://img.shields.io/github/stars/ndesv21/socialclaw?style=flat-square) | ⭐ C | Social media scheduling CLI and OpenClaw skill for AI agents posting to X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, and Pinterest. |
 
 ## Social Media Crawlers
 
@@ -172,6 +173,7 @@
 | [Cliparr](https://github.com/TechSquidTV/Cliparr) | ![](https://img.shields.io/github/stars/TechSquidTV/Cliparr?style=flat-square) | ⭐ C+ | Create clips from media on your personal media server. Automated clip generation with configurable trimming, format conversion, and batch processing for Plex/Jellyfin libraries. |
 | [auto-editor](https://github.com/WyattBlue/auto-editor) | ![](https://img.shields.io/github/stars/WyattBlue/auto-editor?style=flat-square) | ⭐ B+ | Effort-free video editing — automatically cuts silences, dead spaces, and boring sections from videos. Fast Nim-based CLI with Python bindings for batch processing and programmatic editing pipelines. |
 | [premiere-pro-mcp](https://github.com/leancoderkavy/premiere-pro-mcp) | ![](https://img.shields.io/github/stars/leancoderkavy/premiere-pro-mcp?style=flat-square) | ⭐ C | Adobe Premiere Pro MCP server with 269 AI video editing tools for timeline automation, effects, media management, and export. |
+| [freecut](https://github.com/walterlow/freecut) | ![](https://img.shields.io/github/stars/walterlow/freecut?style=flat-square) | ⭐ C | FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations,... |
 | [Timeline Studio](https://github.com/chatman-media/timeline-studio) | ![](https://img.shields.io/github/stars/chatman-media/timeline-studio?style=flat-square) | ⭐ B- | AI-powered video editing studio with timeline-based editing, intelligent clip arrangement, transitions, effects, and one-click export for content creators. |
 
 ---
