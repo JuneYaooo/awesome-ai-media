@@ -51,6 +51,7 @@
 | [Nexior](https://github.com/AceDataCloud/Nexior) | ![](https://img.shields.io/github/stars/AceDataCloud/Nexior?style=flat-square) | ⭐ B | Consumer AI app for chat, image generation, video generation, and music creation. Multi-model unified interface for one-click creative content production. |
 | [clipforge](https://github.com/xixihhhh/clipforge) | ![](https://img.shields.io/github/stars/xixihhhh/clipforge?style=flat-square) | ⭐ C | ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerc... |
 | [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) | ![](https://img.shields.io/github/stars/Anil-matcha/Wan-3.0-API?style=flat-square) | ⭐ C | Wan 3.0 API Python SDK and MCP server for AI video generation: text-to-video, image-to-video, multimodal references, uploads, and async job polling. |
+| [TalkPix.ai](https://www.talkpix.ai) | - | ⭐ A | Pay-as-you-go AI video studio — turn photos into lip-synced talking HD videos, product photos into UGC video ads, and text prompts into video clips. |
 
 ## AI Text-to-Video Models
 
