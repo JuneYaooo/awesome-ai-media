@@ -73,6 +73,7 @@
 | [ltx-video-mac](https://github.com/james-see/ltx-video-mac) | ![](https://img.shields.io/github/stars/james-see/ltx-video-mac?style=flat-square) | ⭐ C | Native macOS app for AI video generation using LTX-Video model, optimized for Apple Silicon |
 | [daihuo-jianshou](https://github.com/xixihhhh/daihuo-jianshou) | ![](https://img.shields.io/github/stars/xixihhhh/daihuo-jianshou?style=flat-square) | ⭐ C | AI 电商带货视频生成工具 | 上传商品图自动生成抖音/快手/小红书带货短视频，AI 脚本+生图+合成一条龙 | Seedance 2.0 / GPT Image 2 / Kling 3.0 / Veo 3 / Nano Banana 2 / FFmpeg |
 | [Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) | ![](https://img.shields.io/github/stars/FurkanGozukara/Stable-Diffusion?style=flat-square) | ⭐ C | FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, Comfy... |
+| [video-clipforge](https://github.com/Johnson-Jia/video-clipforge) | ![](https://img.shields.io/github/stars/Johnson-Jia/video-clipforge?style=flat-square) | ⭐ C | AI 驱动的短视频制作系统。给它一个想法，它帮你写稿、配音、做画面、出成片。9 阶段 DAG 管线 + 自进化评分，支持每日自动执行。基于 Claude Code + HyperFrames。 |
 
 ## Social Media Automation
 
@@ -177,6 +178,7 @@
 | [premiere-pro-mcp](https://github.com/leancoderkavy/premiere-pro-mcp) | ![](https://img.shields.io/github/stars/leancoderkavy/premiere-pro-mcp?style=flat-square) | ⭐ C | Adobe Premiere Pro MCP server with 269 AI video editing tools for timeline automation, effects, media management, and export. |
 | [freecut](https://github.com/walterlow/freecut) | ![](https://img.shields.io/github/stars/walterlow/freecut?style=flat-square) | ⭐ C | FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations,... |
 | [Timeline Studio](https://github.com/chatman-media/timeline-studio) | ![](https://img.shields.io/github/stars/chatman-media/timeline-studio?style=flat-square) | ⭐ B- | AI-powered video editing studio with timeline-based editing, intelligent clip arrangement, transitions, effects, and one-click export for content creators. |
+| [wayshot](https://github.com/heng30/wayshot) | ![](https://img.shields.io/github/stars/heng30/wayshot?style=flat-square) | ⭐ C | Video creation tool: Video editing (with extensive AI-assisted features), screen recording, streaming, and screen sharing.  视频编辑（大量AI辅助功能）、录屏、推流、屏幕共享。 |
 
 ---
 
