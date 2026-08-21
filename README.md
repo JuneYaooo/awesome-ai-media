@@ -51,6 +51,7 @@
 | [Nexior](https://github.com/AceDataCloud/Nexior) | ![](https://img.shields.io/github/stars/AceDataCloud/Nexior?style=flat-square) | ⭐ B | Consumer AI app for chat, image generation, video generation, and music creation. Multi-model unified interface for one-click creative content production. |
 | [clipforge](https://github.com/xixihhhh/clipforge) | ![](https://img.shields.io/github/stars/xixihhhh/clipforge?style=flat-square) | ⭐ C | ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerc... |
 | [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) | ![](https://img.shields.io/github/stars/Anil-matcha/Wan-3.0-API?style=flat-square) | ⭐ C | Wan 3.0 API Python SDK and MCP server for AI video generation: text-to-video, image-to-video, multimodal references, uploads, and async job polling. |
+| [Shopro-AI](https://github.com/wyxpro/Shopro-AI) | ![](https://img.shields.io/github/stars/wyxpro/Shopro-AI?style=flat-square) | ⭐ C | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
 
 ## AI Text-to-Video Models
 
