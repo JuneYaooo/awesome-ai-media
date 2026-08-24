@@ -75,6 +75,7 @@
 | [daihuo-jianshou](https://github.com/xixihhhh/daihuo-jianshou) | ![](https://img.shields.io/github/stars/xixihhhh/daihuo-jianshou?style=flat-square) | ⭐ C | AI 电商带货视频生成工具 | 上传商品图自动生成抖音/快手/小红书带货短视频，AI 脚本+生图+合成一条龙 | Seedance 2.0 / GPT Image 2 / Kling 3.0 / Veo 3 / Nano Banana 2 / FFmpeg |
 | [Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) | ![](https://img.shields.io/github/stars/FurkanGozukara/Stable-Diffusion?style=flat-square) | ⭐ C | FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, Comfy... |
 | [video-clipforge](https://github.com/Johnson-Jia/video-clipforge) | ![](https://img.shields.io/github/stars/Johnson-Jia/video-clipforge?style=flat-square) | ⭐ C | AI 驱动的短视频制作系统。给它一个想法，它帮你写稿、配音、做画面、出成片。9 阶段 DAG 管线 + 自进化评分，支持每日自动执行。基于 Claude Code + HyperFrames。 |
+| [mediagen](https://github.com/Cripacx/mediagen) | ![](https://img.shields.io/github/stars/Cripacx/mediagen?style=flat-square) | ⭐ C | AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking. |
 
 ## Social Media Automation
 
