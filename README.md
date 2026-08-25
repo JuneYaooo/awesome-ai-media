@@ -144,6 +144,7 @@
 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | ![](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square) | ⭐ A | AI short drama and comic strip generator |
 | [ArcReel](https://github.com/ArcReel/ArcReel) | ![](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square) | ⭐ A | Open-source AI video workspace for turning novels and story ideas into scripts, storyboards, assets, and short-form videos with agent orchestration |
 | [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | ![](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) | ⭐ B | Local-first AI short drama and comic creation tool — downloadable app, offline-friendly workflow, and fully open-source JavaScript stack |
+| [xiakeman-ai-short-drama](https://github.com/XiakeMan777/xiakeman-ai-short-drama) | ![](https://img.shields.io/github/stars/XiakeMan777/xiakeman-ai-short-drama?style=flat-square) | ⭐ C | AI漫剧 / AI仿真人短剧/Seedance2.0专用创作工具：剧本创作、剧本分析、小说改编、AI 分镜、图片资产和 Seedance2.0提示词 / 火山方舟视频生成工作流。 |
 
 ## AI Video Analysis and Notes
 
