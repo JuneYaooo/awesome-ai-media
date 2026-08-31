@@ -146,6 +146,7 @@
 | [ArcReel](https://github.com/ArcReel/ArcReel) | ![](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square) | ⭐ A | Open-source AI video workspace for turning novels and story ideas into scripts, storyboards, assets, and short-form videos with agent orchestration |
 | [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | ![](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) | ⭐ B | Local-first AI short drama and comic creation tool — downloadable app, offline-friendly workflow, and fully open-source JavaScript stack |
 | [xiakeman-ai-short-drama](https://github.com/XiakeMan777/xiakeman-ai-short-drama) | ![](https://img.shields.io/github/stars/XiakeMan777/xiakeman-ai-short-drama?style=flat-square) | ⭐ C | AI漫剧 / AI仿真人短剧/Seedance2.0专用创作工具：剧本创作、剧本分析、小说改编、AI 分镜、图片资产和 Seedance2.0提示词 / 火山方舟视频生成工作流。 |
+| [story-shot-agent](https://github.com/neopen/story-shot-agent) | ![](https://img.shields.io/github/stars/neopen/story-shot-agent?style=flat-square) | ⭐ C | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-... |
 
 ## AI Video Analysis and Notes
 
