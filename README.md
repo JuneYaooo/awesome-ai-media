@@ -76,6 +76,7 @@
 | [Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) | ![](https://img.shields.io/github/stars/FurkanGozukara/Stable-Diffusion?style=flat-square) | ⭐ C | FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, Comfy... |
 | [video-clipforge](https://github.com/Johnson-Jia/video-clipforge) | ![](https://img.shields.io/github/stars/Johnson-Jia/video-clipforge?style=flat-square) | ⭐ C | AI 驱动的短视频制作系统。给它一个想法，它帮你写稿、配音、做画面、出成片。9 阶段 DAG 管线 + 自进化评分，支持每日自动执行。基于 Claude Code + HyperFrames。 |
 | [mediagen](https://github.com/Cripacx/mediagen) | ![](https://img.shields.io/github/stars/Cripacx/mediagen?style=flat-square) | ⭐ C | AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking. |
+| [avatar-speak-pro-download](https://github.com/Nathanielyseterday/avatar-speak-pro-download) | ![](https://img.shields.io/github/stars/Nathanielyseterday/avatar-speak-pro-download?style=flat-square) | ⭐ C | An automated AI avatar video generation pipeline designed to boost conversion rates for TikTok ads and Shopify funnels via text scripts. |
 
 ## Social Media Automation
 
@@ -92,6 +93,7 @@
 | [Post4U](https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts) | ![](https://img.shields.io/github/stars/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts?style=flat-square) | ⭐ B | Self-hosted cross-posting dashboard for X, Reddit, Telegram, Discord, and Bluesky with scheduling, previews, media uploads, and an API-first FastAPI backend. |
 | [Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) | ![](https://img.shields.io/github/stars/Anil-matcha/Free-AI-Social-Media-Scheduler?style=flat-square) | ⭐ B+ | Free open-source AI social media scheduler — self-hostable alternative to Postiz/Buffer. Supports multi-platform scheduling with AI-powered content optimization and analytics. |
 | [trypost](https://github.com/trypostit/trypost) | ![](https://img.shields.io/github/stars/trypostit/trypost?style=flat-square) | ⭐ B- | Open-source social media scheduling platform with multi-account management, post queuing, and cross-platform publishing for teams and agencies. |
+| [Prism](https://github.com/Laihiujin/Prism) | ![](https://img.shields.io/github/stars/Laihiujin/Prism?style=flat-square) | ⭐ C | AI 驱动的多平台内容自动发布与矩阵分发系统，支持抖音、小红书、快手、视频号、B站、YouTube、TikTok；提供多账号管理、素材管理、定时发布、任务调度、执行监控、数据回收与 AI 内容编排。 |
 | [socialclaw](https://github.com/ndesv21/socialclaw) | ![](https://img.shields.io/github/stars/ndesv21/socialclaw?style=flat-square) | ⭐ C | Social media scheduling CLI and OpenClaw skill for AI agents posting to X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, and Pinterest. |
 
 ## Social Media Crawlers
@@ -145,6 +147,7 @@
 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | ![](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square) | ⭐ A | AI short drama and comic strip generator |
 | [ArcReel](https://github.com/ArcReel/ArcReel) | ![](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square) | ⭐ A | Open-source AI video workspace for turning novels and story ideas into scripts, storyboards, assets, and short-form videos with agent orchestration |
 | [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | ![](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) | ⭐ B | Local-first AI short drama and comic creation tool — downloadable app, offline-friendly workflow, and fully open-source JavaScript stack |
+| [fablr](https://github.com/Agions/fablr) | ![](https://img.shields.io/github/stars/Agions/fablr?style=flat-square) | ⭐ C | 🎬 剧工 (Fablr) — 开源桌面级 AI 影视/短剧解说创作工坊 (Tauri 2 + Rust + React 18)。素材拆条 + 多 Agent 剧本研磨 + 剪映草稿导出 + 5 级消重合规矩阵分发，100% 本地优先处理。 |
 | [xiakeman-ai-short-drama](https://github.com/XiakeMan777/xiakeman-ai-short-drama) | ![](https://img.shields.io/github/stars/XiakeMan777/xiakeman-ai-short-drama?style=flat-square) | ⭐ C | AI漫剧 / AI仿真人短剧/Seedance2.0专用创作工具：剧本创作、剧本分析、小说改编、AI 分镜、图片资产和 Seedance2.0提示词 / 火山方舟视频生成工作流。 |
 | [story-shot-agent](https://github.com/neopen/story-shot-agent) | ![](https://img.shields.io/github/stars/neopen/story-shot-agent?style=flat-square) | ⭐ C | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-... |
 
