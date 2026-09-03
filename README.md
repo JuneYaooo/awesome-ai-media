@@ -151,6 +151,7 @@
 | [fablr](https://github.com/Agions/fablr) | ![](https://img.shields.io/github/stars/Agions/fablr?style=flat-square) | ⭐ C | 🎬 剧工 (Fablr) — 开源桌面级 AI 影视/短剧解说创作工坊 (Tauri 2 + Rust + React 18)。素材拆条 + 多 Agent 剧本研磨 + 剪映草稿导出 + 5 级消重合规矩阵分发，100% 本地优先处理。 |
 | [xiakeman-ai-short-drama](https://github.com/XiakeMan777/xiakeman-ai-short-drama) | ![](https://img.shields.io/github/stars/XiakeMan777/xiakeman-ai-short-drama?style=flat-square) | ⭐ C | AI漫剧 / AI仿真人短剧/Seedance2.0专用创作工具：剧本创作、剧本分析、小说改编、AI 分镜、图片资产和 Seedance2.0提示词 / 火山方舟视频生成工作流。 |
 | [story-shot-agent](https://github.com/neopen/story-shot-agent) | ![](https://img.shields.io/github/stars/neopen/story-shot-agent?style=flat-square) | ⭐ C | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-... |
+| [novanova-studio](https://github.com/Swayingleaves/novanova-studio) | ![](https://img.shields.io/github/stars/Swayingleaves/novanova-studio?style=flat-square) | ⭐ C | NovaNova Studio 是一个 Agent 驱动的 AI 创作工作台，集图片生成、视频生成、无限画布与多模型 API 、漫剧短剧生成于一体，为独立创作者和视觉团队打造更智能、更高效的创作体验。 |
 
 ## AI Video Analysis and Notes
 
