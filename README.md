@@ -173,6 +173,7 @@
 |---------|-------|-------|-------------|
 | [Remotion](https://github.com/remotion-dev/remotion) | ![](https://img.shields.io/github/stars/remotion-dev/remotion?style=flat-square) | ⭐ A | Create videos programmatically using React — server-side rendering + Lambda |
 | [Helios](https://github.com/BintzGavin/helios) | ![](https://img.shields.io/github/stars/BintzGavin/helios?style=flat-square) | ⭐ B | Browser-native video framework that leans on real Web Animations and WebCodecs instead of screenshot-style rendering, with CSS-friendly motion, diagnostics, benchmarks, and TypeScript docs. |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | ![](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=flat-square) | ⭐ B | Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, generation, editing, and automatic assembly from editable plans. |
 
 ## Video Editing Libraries
 
