@@ -110,6 +110,7 @@
 | [TikTokLive](https://github.com/isaackogan/TikTokLive) | ![](https://img.shields.io/github/stars/isaackogan/TikTokLive?style=flat-square) | ⭐ B+ | Definitive Python library for receiving TikTok livestream events — comments, gifts, follows, and shares in real-time. Production-ready with async support and connection pooling. |
 | [skraper](https://github.com/sokomishalov/skraper) | ![](https://img.shields.io/github/stars/sokomishalov/skraper?style=flat-square) | ⭐ B- | Kotlin/Java library and CLI tool for scraping posts and media from various social sources. Multi-platform extraction with built-in rate limiting and retry logic. |
 | [Beav](https://github.com/Jamailar/Beav) | ![](https://img.shields.io/github/stars/Jamailar/Beav?style=flat-square) | ⭐ C | 小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作、自媒体版WorkBuddy、小红书爬虫数据采集｜你桌面盒子里的AI小河狸🦫 |
+| [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | ![](https://img.shields.io/github/stars/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square) | ⭐ C | 🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, Po... |
 
 ## Subtitle and Localization
 
