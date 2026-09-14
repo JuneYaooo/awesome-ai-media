@@ -191,6 +191,7 @@
 | [freecut](https://github.com/walterlow/freecut) | ![](https://img.shields.io/github/stars/walterlow/freecut?style=flat-square) | ⭐ C | FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations,... |
 | [Timeline Studio](https://github.com/chatman-media/timeline-studio) | ![](https://img.shields.io/github/stars/chatman-media/timeline-studio?style=flat-square) | ⭐ B- | AI-powered video editing studio with timeline-based editing, intelligent clip arrangement, transitions, effects, and one-click export for content creators. |
 | [wayshot](https://github.com/heng30/wayshot) | ![](https://img.shields.io/github/stars/heng30/wayshot?style=flat-square) | ⭐ C | Video creation tool: Video editing (with extensive AI-assisted features), screen recording, streaming, and screen sharing.  视频编辑（大量AI辅助功能）、录屏、推流、屏幕共享。 |
+| [socaliseit](https://github.com/MerlinStacks/socaliseit) | ![](https://img.shields.io/github/stars/MerlinStacks/socaliseit?style=flat-square) | ⭐ C | A powerful social media management platform with multi-track video editing (Remotion), unified publishing across Instagram, TikTok, YouTube & more. Features AI-powered caption generation, cross-pla... |
 
 ---
 
