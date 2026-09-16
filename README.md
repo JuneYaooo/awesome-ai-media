@@ -111,6 +111,7 @@
 | [skraper](https://github.com/sokomishalov/skraper) | ![](https://img.shields.io/github/stars/sokomishalov/skraper?style=flat-square) | ⭐ B- | Kotlin/Java library and CLI tool for scraping posts and media from various social sources. Multi-platform extraction with built-in rate limiting and retry logic. |
 | [Beav](https://github.com/Jamailar/Beav) | ![](https://img.shields.io/github/stars/Jamailar/Beav?style=flat-square) | ⭐ C | 小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作、自媒体版WorkBuddy、小红书爬虫数据采集｜你桌面盒子里的AI小河狸🦫 |
 | [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | ![](https://img.shields.io/github/stars/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square) | ⭐ C | 🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, Po... |
+| [mcp](https://github.com/supadata-ai/mcp) | ![](https://img.shields.io/github/stars/supadata-ai/mcp?style=flat-square) | ⭐ C | Official Supadata MCP Server - Adds powerful video & web scraping to Cursor, Claude and any other LLM clients. |
 
 ## Subtitle and Localization
 
@@ -191,6 +192,7 @@
 | [freecut](https://github.com/walterlow/freecut) | ![](https://img.shields.io/github/stars/walterlow/freecut?style=flat-square) | ⭐ C | FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations,... |
 | [Timeline Studio](https://github.com/chatman-media/timeline-studio) | ![](https://img.shields.io/github/stars/chatman-media/timeline-studio?style=flat-square) | ⭐ B- | AI-powered video editing studio with timeline-based editing, intelligent clip arrangement, transitions, effects, and one-click export for content creators. |
 | [wayshot](https://github.com/heng30/wayshot) | ![](https://img.shields.io/github/stars/heng30/wayshot?style=flat-square) | ⭐ C | Video creation tool: Video editing (with extensive AI-assisted features), screen recording, streaming, and screen sharing.  视频编辑（大量AI辅助功能）、录屏、推流、屏幕共享。 |
+| [LynnReal-Omni](https://github.com/LynnReal-AI/LynnReal-Omni) | ![](https://img.shields.io/github/stars/LynnReal-AI/LynnReal-Omni?style=flat-square) | ⭐ C | LynnReal-Omni brings text-to-video, image-to-video, human- and hand-pose guided generation, structural control, omni-reference generation, style transfer, video editing, degraded-video restoration ... |
 | [socaliseit](https://github.com/MerlinStacks/socaliseit) | ![](https://img.shields.io/github/stars/MerlinStacks/socaliseit?style=flat-square) | ⭐ C | A powerful social media management platform with multi-track video editing (Remotion), unified publishing across Instagram, TikTok, YouTube & more. Features AI-powered caption generation, cross-pla... |
 
 ---
