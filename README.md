@@ -170,6 +170,7 @@
 | Project | Stars | Grade | Description |
 |---------|-------|-------|-------------|
 | [aigcpanel](https://github.com/modstart-lib/aigcpanel) | ![](https://img.shields.io/github/stars/modstart-lib/aigcpanel?style=flat-square) | ⭐ B | AIGC digital human system — AI avatar and virtual presenter |
+| [SeeCut](https://github.com/YeJe-cpu/SeeCut) | ![](https://img.shields.io/github/stars/YeJe-cpu/SeeCut?style=flat-square) | ⭐ C | An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿 |
 
 ## Programmatic Video Creation
 
