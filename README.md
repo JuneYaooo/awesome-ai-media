@@ -182,6 +182,7 @@
 | [Remotion](https://github.com/remotion-dev/remotion) | ![](https://img.shields.io/github/stars/remotion-dev/remotion?style=flat-square) | ⭐ A | Create videos programmatically using React — server-side rendering + Lambda |
 | [Helios](https://github.com/BintzGavin/helios) | ![](https://img.shields.io/github/stars/BintzGavin/helios?style=flat-square) | ⭐ B | Browser-native video framework that leans on real Web Animations and WebCodecs instead of screenshot-style rendering, with CSS-friendly motion, diagnostics, benchmarks, and TypeScript docs. |
 | [remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) | ![](https://img.shields.io/github/stars/DojoCodingLabs/remotion-superpowers?style=flat-square) | ⭐ C | 🎬 Claude Code plugin — full video production studio for Remotion. AI voiceovers, music, stock footage, image/video generation, TikTok captions, 3D, transitions & AI review loop. 5 MCP servers, 13 c... |
+| [AniFlow](https://github.com/aashish254/Aniflow) | ![](https://img.shields.io/github/stars/aashish254/Aniflow?style=flat-square) |  | Self-hosted AI studio that turns manhwa/webtoon chapters into narrated recap videos |
 
 ## Video Editing Libraries
 
