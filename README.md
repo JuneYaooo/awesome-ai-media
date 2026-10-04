@@ -82,7 +82,8 @@
 
 | Project | Stars | Grade | Description |
 |---------|-------|-------|-------------|
-| [Postiz](https://github.com/gitroomhq/postiz-app) | ![](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square) | ⭐ A | Open-source social media scheduling — alternative to Buffer/Hootsuite |
+| [Postiz](https://github.com/gitroomhq/postiz-app)
+| [Social Roster](https://socialroster.dev) | — | ⭐ B | Calendar-based short-form video scheduling and bulk upload across TikTok, Instagram Reels, YouTube Shorts, and Facebook | | ![](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square) | ⭐ A | Open-source social media scheduling — alternative to Buffer/Hootsuite |
 | [TryPost](https://github.com/trypost-it/trypost) | ![](https://img.shields.io/github/stars/trypost-it/trypost?style=flat-square) | ⭐ B | Self-hosted social media scheduling platform for creators and teams, with Laravel + Vue stack, multi-network publishing, docs, releases, and roadmap-driven development. |
 | [social-auto-upload](https://github.com/dreammis/social-auto-upload) | ![](https://img.shields.io/github/stars/dreammis/social-auto-upload?style=flat-square) | ⭐ B | Auto-upload videos to Douyin, TikTok, Bilibili, Kuaishou, Xiaohongshu |
 | [video-mover](https://github.com/toki-plus/video-mover) | ![](https://img.shields.io/github/stars/toki-plus/video-mover?style=flat-square) | ⭐ C | Fully automated short video cross-platform reposting tool |
