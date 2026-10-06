@@ -158,6 +158,7 @@
 | [novanova-studio](https://github.com/Swayingleaves/novanova-studio) | ![](https://img.shields.io/github/stars/Swayingleaves/novanova-studio?style=flat-square) | ⭐ C | NovaNova Studio 是一个 Agent 驱动的 AI 创作工作台，集图片生成、视频生成、无限画布与多模型 API 、漫剧短剧生成于一体，为独立创作者和视觉团队打造更智能、更高效的创作体验。 |
 | [aid-studio](https://github.com/gzxx-2025/aid-studio) | ![](https://img.shields.io/github/stars/gzxx-2025/aid-studio?style=flat-square) | ⭐ C | 开源AI漫剧、AI短剧、AI电影与AI漫画创作平台，支持剧本、角色场景、智能分镜、图片与视频生成、配音及成片预览，多模型接入，可自行部署。预：无限画布、导演台。 |
 | [DramaClip](https://github.com/efarsoft/DramaClip) | ![](https://img.shields.io/github/stars/efarsoft/DramaClip?style=flat-square) | ⭐ C | DramaClip 是一款专注于短剧自动高光剪辑的智能系统，采用单系统双模式设计，无需部署多套系统，用户可根据需求自由选择“原片直剪模式”或“AI解说模式”，快速处理1~N集短剧（1集、3集、5集、6集等任意数量），自动生成符合短视频分发标准的竖屏高光成片。 系统核心优势：操作简洁、处理高效、适配多种短剧场景，既能保留原片质感，也能生成专业的剧情解说内容，大幅降低短剧高光剪辑的门槛和成本。 |
+| [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | ![](https://img.shields.io/github/stars/Tenney95/AI-Canvas-tauri?style=flat-square) | ⭐ C | Local-first AI canvas for visual workflows, AI short drama, image/video generation, storyboarding and asset management. ComfyUI, AI agents, MCP & Blender. 本地优先 AI 画布：AI短剧、AI资产管理、图像/视频生成、分镜制作与视频剪辑。 |
 
 ## AI Video Analysis and Notes
 
