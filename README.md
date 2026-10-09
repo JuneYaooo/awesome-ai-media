@@ -82,6 +82,7 @@
 
 | Project | Stars | Grade | Description |
 |---------|-------|-------|-------------|
+| [Beamora](https://www.beamora.app) | ![](https://img.shields.io/github/stars/Oralcool/postick?style=flat-square) | ⭐ A | AI content remixing and multi-platform social media scheduler for TikTok, Instagram, YouTube, LinkedIn, and X |
 | [Postiz](https://github.com/gitroomhq/postiz-app) | ![](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square) | ⭐ A | Open-source social media scheduling — alternative to Buffer/Hootsuite |
 | [TryPost](https://github.com/trypost-it/trypost) | ![](https://img.shields.io/github/stars/trypost-it/trypost?style=flat-square) | ⭐ B | Self-hosted social media scheduling platform for creators and teams, with Laravel + Vue stack, multi-network publishing, docs, releases, and roadmap-driven development. |
 | [social-auto-upload](https://github.com/dreammis/social-auto-upload) | ![](https://img.shields.io/github/stars/dreammis/social-auto-upload?style=flat-square) | ⭐ B | Auto-upload videos to Douyin, TikTok, Bilibili, Kuaishou, Xiaohongshu |
