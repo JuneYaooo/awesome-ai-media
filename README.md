@@ -142,6 +142,7 @@
 | [asmr-dubber](https://github.com/EveningStudy/asmr-dubber) | ![](https://img.shields.io/github/stars/EveningStudy/asmr-dubber?style=flat-square) | ⭐ C | 音视频字幕及配音工具：支持 ASR（语音识别）、台本导入、AI 翻译、双语字幕、音色克隆、TTS（语音合成）与混音以得到双语音频。 |
 | [Transub](https://github.com/dlsandy/Transub) | ![](https://img.shields.io/github/stars/dlsandy/Transub?style=flat-square) | ⭐ C | 拖进视频就能批量生成高质量字幕，自动质检修复，自带专业级字幕编辑器。支持转写、翻译与双语。 |
 | [autoclip](https://github.com/zhouxiaoka/autoclip) | ![](https://img.shields.io/github/stars/zhouxiaoka/autoclip?style=flat-square) | ⭐ C | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing. |
+| [OpenCreator](https://github.com/krillinai/OpenCreator) | ![](https://img.shields.io/github/stars/krillinai/OpenCreator?style=flat-square) | ⭐ C | Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social M... |
 
 ## AI Short Drama Generation
 
@@ -201,6 +202,7 @@
 | [wayshot](https://github.com/heng30/wayshot) | ![](https://img.shields.io/github/stars/heng30/wayshot?style=flat-square) | ⭐ C | Video creation tool: Video editing (with extensive AI-assisted features), screen recording, streaming, and screen sharing.  视频编辑（大量AI辅助功能）、录屏、推流、屏幕共享。 |
 | [LynnReal-Omni](https://github.com/LynnReal-AI/LynnReal-Omni) | ![](https://img.shields.io/github/stars/LynnReal-AI/LynnReal-Omni?style=flat-square) | ⭐ C | LynnReal-Omni brings text-to-video, image-to-video, human- and hand-pose guided generation, structural control, omni-reference generation, style transfer, video editing, degraded-video restoration ... |
 | [socaliseit](https://github.com/MerlinStacks/socaliseit) | ![](https://img.shields.io/github/stars/MerlinStacks/socaliseit?style=flat-square) | ⭐ C | A powerful social media management platform with multi-track video editing (Remotion), unified publishing across Instagram, TikTok, YouTube & more. Features AI-powered caption generation, cross-pla... |
+| [CapCut-v26](https://github.com/ApparitionStream/CapCut-v26) | ![](https://img.shields.io/github/stars/ApparitionStream/CapCut-v26?style=flat-square) | ⭐ C | Professional video editing suite featuring multi-track timeline editing, AI-powered effects, keyframe animation, and optimized 4K rendering tools. |
 
 ---
 
