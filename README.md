@@ -77,6 +77,7 @@
 | [video-clipforge](https://github.com/Johnson-Jia/video-clipforge) | ![](https://img.shields.io/github/stars/Johnson-Jia/video-clipforge?style=flat-square) | ⭐ C | AI 驱动的短视频制作系统。给它一个想法，它帮你写稿、配音、做画面、出成片。9 阶段 DAG 管线 + 自进化评分，支持每日自动执行。基于 Claude Code + HyperFrames。 |
 | [mediagen](https://github.com/Cripacx/mediagen) | ![](https://img.shields.io/github/stars/Cripacx/mediagen?style=flat-square) | ⭐ C | AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking. |
 | [avatar-speak-pro-download](https://github.com/Nathanielyseterday/avatar-speak-pro-download) | ![](https://img.shields.io/github/stars/Nathanielyseterday/avatar-speak-pro-download?style=flat-square) | ⭐ C | An automated AI avatar video generation pipeline designed to boost conversion rates for TikTok ads and Shopify funnels via text scripts. |
+| [muse2api](https://github.com/czg86389-hub/muse2api) | ![](https://img.shields.io/github/stars/czg86389-hub/muse2api?style=flat-square) | ⭐ C | 把 Muse(muse.ai) 逆向封装为 OpenAI 兼容接口，支持对话、文生图、文生视频/图生视频、多账号池轮转与 48h 自动续期。OpenAI-compatible API for Muse.ai with Chat, Image & Video generation. |
 
 ## Social Media Automation
 
