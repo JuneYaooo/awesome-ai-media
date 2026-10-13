@@ -97,6 +97,7 @@
 | [Prism](https://github.com/Laihiujin/Prism) | ![](https://img.shields.io/github/stars/Laihiujin/Prism?style=flat-square) | ⭐ C | AI 驱动的多平台内容自动发布与矩阵分发系统，支持抖音、小红书、快手、视频号、B站、YouTube、TikTok；提供多账号管理、素材管理、定时发布、任务调度、执行监控、数据回收与 AI 内容编排。 |
 | [socialclaw](https://github.com/ndesv21/socialclaw) | ![](https://img.shields.io/github/stars/ndesv21/socialclaw?style=flat-square) | ⭐ C | Social media scheduling CLI and OpenClaw skill for AI agents posting to X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, and Pinterest. |
 | [meiti-ai](https://github.com/zhuixin8/meiti-ai) | ![](https://img.shields.io/github/stars/zhuixin8/meiti-ai?style=flat-square) | ⭐ C | ALQQ · AI 自媒体内容运营平台｜一次创作，图文/动态/视频 一键分发 20+ 平台（抖音/小红书/B站/快手/视频号/头条/百家号/公众号/知乎/微博等）。AI写文·去AI味·热点选题·定时自动发布·多账号矩阵。完全免费，桌面端+网页端。 |
+| [SoloMCN](https://github.com/ymybxx/SoloMCN) | ![](https://img.shields.io/github/stars/ymybxx/SoloMCN?style=flat-square) | ⭐ C | 把 Claude Code 变成你的短视频团队：不搭工作流，直接让 Claude 干活，从国内热榜、推特热帖到抖音、小红书、B站、YouTube、推特发布。Turn Claude Code into your short-video team — no workflows, from trends and X posts to publishing. |
 
 ## Social Media Crawlers
 
