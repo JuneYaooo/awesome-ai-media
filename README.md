@@ -145,6 +145,7 @@
 | [Transub](https://github.com/dlsandy/Transub) | ![](https://img.shields.io/github/stars/dlsandy/Transub?style=flat-square) | ⭐ C | 拖进视频就能批量生成高质量字幕，自动质检修复，自带专业级字幕编辑器。支持转写、翻译与双语。 |
 | [autoclip](https://github.com/zhouxiaoka/autoclip) | ![](https://img.shields.io/github/stars/zhouxiaoka/autoclip?style=flat-square) | ⭐ C | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing. |
 | [OpenCreator](https://github.com/krillinai/OpenCreator) | ![](https://img.shields.io/github/stars/krillinai/OpenCreator?style=flat-square) | ⭐ C | Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social M... |
+| [Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) | ![](https://img.shields.io/github/stars/1c7/Translate-Subtitle-File?style=flat-square) | ⭐ C | 翻译字幕文件：拖入 .srt / .ass / .vtt，点一下就翻完。产品名称：译幕（Zimoo）有网页版和 Mac / Windows 桌面版，支持 DeepSeek、Gemini、GPT、Claude、Kimi、智谱等 AI 大模型，和其他软件最大的区别（差异）：用户配置自己的 API Key 来做翻译，这样的好处是费用是最低的。 |
 
 ## AI Short Drama Generation
 
