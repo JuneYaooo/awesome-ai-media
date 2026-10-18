@@ -78,6 +78,7 @@
 | [mediagen](https://github.com/Cripacx/mediagen) | ![](https://img.shields.io/github/stars/Cripacx/mediagen?style=flat-square) | ⭐ C | AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking. |
 | [avatar-speak-pro-download](https://github.com/Nathanielyseterday/avatar-speak-pro-download) | ![](https://img.shields.io/github/stars/Nathanielyseterday/avatar-speak-pro-download?style=flat-square) | ⭐ C | An automated AI avatar video generation pipeline designed to boost conversion rates for TikTok ads and Shopify funnels via text scripts. |
 | [muse2api](https://github.com/czg86389-hub/muse2api) | ![](https://img.shields.io/github/stars/czg86389-hub/muse2api?style=flat-square) | ⭐ C | 把 Muse(muse.ai) 逆向封装为 OpenAI 兼容接口，支持对话、文生图、文生视频/图生视频、多账号池轮转与 48h 自动续期。OpenAI-compatible API for Muse.ai with Chat, Image & Video generation. |
+| [lindyson-ai](https://github.com/orylite/lindyson-ai) | ![](https://img.shields.io/github/stars/orylite/lindyson-ai?style=flat-square) | ⭐ C | AI video & image generation workspace for e-commerce teams, built on Volcengine Seedance / Seedream, with MCP for ChatGPT & Codex · 面向电商团队的 AI 视频与图片生成工作台 |
 
 ## Social Media Automation
 
@@ -146,6 +147,7 @@
 | [autoclip](https://github.com/zhouxiaoka/autoclip) | ![](https://img.shields.io/github/stars/zhouxiaoka/autoclip?style=flat-square) | ⭐ C | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing. |
 | [OpenCreator](https://github.com/krillinai/OpenCreator) | ![](https://img.shields.io/github/stars/krillinai/OpenCreator?style=flat-square) | ⭐ C | Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social M... |
 | [Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) | ![](https://img.shields.io/github/stars/1c7/Translate-Subtitle-File?style=flat-square) | ⭐ C | 翻译字幕文件：拖入 .srt / .ass / .vtt，点一下就翻完。产品名称：译幕（Zimoo）有网页版和 Mac / Windows 桌面版，支持 DeepSeek、Gemini、GPT、Claude、Kimi、智谱等 AI 大模型，和其他软件最大的区别（差异）：用户配置自己的 API Key 来做翻译，这样的好处是费用是最低的。 |
+| [StreamLingo](https://github.com/michael-chow-arch/StreamLingo) | ![](https://img.shields.io/github/stars/michael-chow-arch/StreamLingo?style=flat-square) | ⭐ C | YouTube 直播实时 AI 翻译字幕，支持本地 Ollama，英中双向。首次配置，日常双击启动。AI captions for YouTube livestreams with local Ollama. English ↔ Chinese. Windows/NVIDIA preview; setup once, double-click to start. |
 | [2ByteASR](https://github.com/NOTBAD314/2ByteASR) | ![](https://img.shields.io/github/stars/NOTBAD314/2ByteASR?style=flat-square) | ⭐ C | 兔白字幕：面向中文游戏实况的本地字幕识别与视频编辑工具，支持校对、说话人分轨与特效字幕。当前提供源码，暂无公开安装包。 |
 
 ## AI Short Drama Generation
