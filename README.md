@@ -149,6 +149,7 @@
 | [Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) | ![](https://img.shields.io/github/stars/1c7/Translate-Subtitle-File?style=flat-square) | ⭐ C | 翻译字幕文件：拖入 .srt / .ass / .vtt，点一下就翻完。产品名称：译幕（Zimoo）有网页版和 Mac / Windows 桌面版，支持 DeepSeek、Gemini、GPT、Claude、Kimi、智谱等 AI 大模型，和其他软件最大的区别（差异）：用户配置自己的 API Key 来做翻译，这样的好处是费用是最低的。 |
 | [StreamLingo](https://github.com/michael-chow-arch/StreamLingo) | ![](https://img.shields.io/github/stars/michael-chow-arch/StreamLingo?style=flat-square) | ⭐ C | YouTube 直播实时 AI 翻译字幕，支持本地 Ollama，英中双向。首次配置，日常双击启动。AI captions for YouTube livestreams with local Ollama. English ↔ Chinese. Windows/NVIDIA preview; setup once, double-click to start. |
 | [2ByteASR](https://github.com/NOTBAD314/2ByteASR) | ![](https://img.shields.io/github/stars/NOTBAD314/2ByteASR?style=flat-square) | ⭐ C | 兔白字幕：面向中文游戏实况的本地字幕识别与视频编辑工具，支持校对、说话人分轨与特效字幕。当前提供源码，暂无公开安装包。 |
+| [vibe-knowledge-video](https://github.com/xiazhuo123456789/vibe-knowledge-video) | ![](https://img.shields.io/github/stars/xiazhuo123456789/vibe-knowledge-video?style=flat-square) | ⭐ C | Vibe知识大赏风格 AI 知识视频 Skill — 纯代码生成电影感知识短视频（无配音·双语字幕·合成BGM·历史文献再现），风格规范逆向自 8 条抖音爆款原片（1091 帧逐秒分析） |
 
 ## AI Short Drama Generation
 
