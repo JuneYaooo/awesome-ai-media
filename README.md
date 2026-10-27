@@ -29,6 +29,7 @@
 
 | Project | Stars | Grade | Description |
 |---------|-------|-------|-------------|
+| [Ideoy](https://ideoy.ai) | Remake this week's viral meme videos from one selfie (MiniMax H3, 9:16) | Freemium | — |
 | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | ![](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=flat-square) | ⭐ A | One-click AI short video generator — auto script, TTS, subtitles, and assembly. Supports multiple LLMs |
 | [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | ![](https://img.shields.io/github/stars/FujiwaraChoki/MoneyPrinter?style=flat-square) | ⭐ B | Automates YouTube Shorts / TikTok video creation from a topic |
 | [ShortGPT](https://github.com/RayVentura/ShortGPT) | ![](https://img.shields.io/github/stars/RayVentura/ShortGPT?style=flat-square) | ⭐ B | AI framework for automating short-form content creation |
