@@ -169,6 +169,7 @@
 | [DramaClip](https://github.com/efarsoft/DramaClip) | ![](https://img.shields.io/github/stars/efarsoft/DramaClip?style=flat-square) | ⭐ C | DramaClip 是一款专注于短剧自动高光剪辑的智能系统，采用单系统双模式设计，无需部署多套系统，用户可根据需求自由选择“原片直剪模式”或“AI解说模式”，快速处理1~N集短剧（1集、3集、5集、6集等任意数量），自动生成符合短视频分发标准的竖屏高光成片。 系统核心优势：操作简洁、处理高效、适配多种短剧场景，既能保留原片质感，也能生成专业的剧情解说内容，大幅降低短剧高光剪辑的门槛和成本。 |
 | [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | ![](https://img.shields.io/github/stars/Tenney95/AI-Canvas-tauri?style=flat-square) | ⭐ C | Local-first AI canvas for visual workflows, AI short drama, image/video generation, storyboarding and asset management. ComfyUI, AI agents, MCP & Blender. 本地优先 AI 画布：AI短剧、AI资产管理、图像/视频生成、分镜制作与视频剪辑。 |
 | [AI-Short-Drama-Studio](https://github.com/JerrIsTheBesta/AI-Short-Drama-Studio) | ![](https://img.shields.io/github/stars/JerrIsTheBesta/AI-Short-Drama-Studio?style=flat-square) | ⭐ C | 剧流 Studio：开源 AI短剧生成 / AI短剧工作台，支持 LLM、视觉理解、生图、图生视频、配音、字幕与视频剪辑。Open-source AI short drama and video workflow studio. |
+| [novelvids](https://github.com/Anning01/novelvids) | ![](https://img.shields.io/github/stars/Anning01/novelvids?style=flat-square) | ⭐ C | 从故事创作、角色资产管理、分镜设计，到 AI 图片与视频生成，打造完整的开源 AI 漫剧与短剧创作工作台。支持创作助手、无限画布、本地部署与多模型接入。 |
 
 ## AI Video Analysis and Notes
 
