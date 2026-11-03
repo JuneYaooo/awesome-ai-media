@@ -52,6 +52,7 @@
 | [clipforge](https://github.com/xixihhhh/clipforge) | ![](https://img.shields.io/github/stars/xixihhhh/clipforge?style=flat-square) | ⭐ C | ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerc... |
 | [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) | ![](https://img.shields.io/github/stars/Anil-matcha/Wan-3.0-API?style=flat-square) | ⭐ C | Wan 3.0 API Python SDK and MCP server for AI video generation: text-to-video, image-to-video, multimodal references, uploads, and async job polling. |
 | [Shopro-AI](https://github.com/wyxpro/Shopro-AI) | ![](https://img.shields.io/github/stars/wyxpro/Shopro-AI?style=flat-square) | ⭐ C | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| [vidknot](https://github.com/suonian/vidknot) | ![](https://img.shields.io/github/stars/suonian/vidknot?style=flat-square) | ⭐ C | VidkNot（影音笔记舱）— 一键从 11+ 自媒体平台（YouTube、B站、抖音、小红书、快手、TikTok、Twitter/X、Instagram、视频号、微博、Vimeo）提取视频笔记：下载音频、双 ASR 交叉校验、LLM 生成结构化笔记，同步到 Obsidian/飞书/Notion/语雀。Video Knowledge, Knotted. |
 
 ## AI Text-to-Video Models
 
@@ -78,6 +79,8 @@
 | [mediagen](https://github.com/Cripacx/mediagen) | ![](https://img.shields.io/github/stars/Cripacx/mediagen?style=flat-square) | ⭐ C | AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking. |
 | [avatar-speak-pro-download](https://github.com/Nathanielyseterday/avatar-speak-pro-download) | ![](https://img.shields.io/github/stars/Nathanielyseterday/avatar-speak-pro-download?style=flat-square) | ⭐ C | An automated AI avatar video generation pipeline designed to boost conversion rates for TikTok ads and Shopify funnels via text scripts. |
 | [muse2api](https://github.com/czg86389-hub/muse2api) | ![](https://img.shields.io/github/stars/czg86389-hub/muse2api?style=flat-square) | ⭐ C | 把 Muse(muse.ai) 逆向封装为 OpenAI 兼容接口，支持对话、文生图、文生视频/图生视频、多账号池轮转与 48h 自动续期。OpenAI-compatible API for Muse.ai with Chat, Image & Video generation. |
+| [uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) | ![](https://img.shields.io/github/stars/wideeyededi/uncensored-nsfw-ai-video-api?style=flat-square) | ⭐ C | Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分... |
+| [explainer-video](https://github.com/SpeedPainterOrg/explainer-video) | ![](https://img.shields.io/github/stars/SpeedPainterOrg/explainer-video?style=flat-square) | ⭐ C | Codex plugin for turning text, URLs, and documents into narrated hand-drawn explainer videos. |
 | [lindyson-ai](https://github.com/orylite/lindyson-ai) | ![](https://img.shields.io/github/stars/orylite/lindyson-ai?style=flat-square) | ⭐ C | AI video & image generation workspace for e-commerce teams, built on Volcengine Seedance / Seedream, with MCP for ChatGPT & Codex · 面向电商团队的 AI 视频与图片生成工作台 |
 
 ## Social Media Automation
@@ -99,6 +102,7 @@
 | [socialclaw](https://github.com/ndesv21/socialclaw) | ![](https://img.shields.io/github/stars/ndesv21/socialclaw?style=flat-square) | ⭐ C | Social media scheduling CLI and OpenClaw skill for AI agents posting to X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, and Pinterest. |
 | [meiti-ai](https://github.com/zhuixin8/meiti-ai) | ![](https://img.shields.io/github/stars/zhuixin8/meiti-ai?style=flat-square) | ⭐ C | ALQQ · AI 自媒体内容运营平台｜一次创作，图文/动态/视频 一键分发 20+ 平台（抖音/小红书/B站/快手/视频号/头条/百家号/公众号/知乎/微博等）。AI写文·去AI味·热点选题·定时自动发布·多账号矩阵。完全免费，桌面端+网页端。 |
 | [SoloMCN](https://github.com/ymybxx/SoloMCN) | ![](https://img.shields.io/github/stars/ymybxx/SoloMCN?style=flat-square) | ⭐ C | 把 Claude Code 变成你的短视频团队：不搭工作流，直接让 Claude 干活，从国内热榜、推特热帖到抖音、小红书、B站、YouTube、推特发布。Turn Claude Code into your short-video team — no workflows, from trends and X posts to publishing. |
+| [postiz-cheap](https://github.com/SamurAIGPT/postiz-cheap) | ![](https://img.shields.io/github/stars/SamurAIGPT/postiz-cheap?style=flat-square) | ⭐ C | Free, open-source Postiz alternative: self-host a social media scheduler with an AI post writer, content calendar, and publishing across 8 platforms. MIT licensed; external provider charges may apply. |
 
 ## Social Media Crawlers
 
@@ -166,6 +170,7 @@
 | [story-shot-agent](https://github.com/neopen/story-shot-agent) | ![](https://img.shields.io/github/stars/neopen/story-shot-agent?style=flat-square) | ⭐ C | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-... |
 | [novanova-studio](https://github.com/Swayingleaves/novanova-studio) | ![](https://img.shields.io/github/stars/Swayingleaves/novanova-studio?style=flat-square) | ⭐ C | NovaNova Studio 是一个 Agent 驱动的 AI 创作工作台，集图片生成、视频生成、无限画布与多模型 API 、漫剧短剧生成于一体，为独立创作者和视觉团队打造更智能、更高效的创作体验。 |
 | [aid-studio](https://github.com/gzxx-2025/aid-studio) | ![](https://img.shields.io/github/stars/gzxx-2025/aid-studio?style=flat-square) | ⭐ C | 开源AI漫剧、AI短剧、AI电影与AI漫画创作平台，支持剧本、角色场景、智能分镜、图片与视频生成、配音及成片预览，多模型接入，可自行部署。预：无限画布、导演台。 |
+| [hongguo-downloader](https://github.com/parallelpan/hongguo-downloader) | ![](https://img.shields.io/github/stars/parallelpan/hongguo-downloader?style=flat-square) | ⭐ C | 红果短剧下载工具：红果短剧 / 红果免费短剧 全集下载、批量下载与整剧打包 ZIP，粘贴分享链接即云端处理、按集取件，免安装网页版。Hongguo downloader — short drama downloader for cdrama & duanju: paste a link, fetch every episode online, pay per episode, no inst... |
 | [DramaClip](https://github.com/efarsoft/DramaClip) | ![](https://img.shields.io/github/stars/efarsoft/DramaClip?style=flat-square) | ⭐ C | DramaClip 是一款专注于短剧自动高光剪辑的智能系统，采用单系统双模式设计，无需部署多套系统，用户可根据需求自由选择“原片直剪模式”或“AI解说模式”，快速处理1~N集短剧（1集、3集、5集、6集等任意数量），自动生成符合短视频分发标准的竖屏高光成片。 系统核心优势：操作简洁、处理高效、适配多种短剧场景，既能保留原片质感，也能生成专业的剧情解说内容，大幅降低短剧高光剪辑的门槛和成本。 |
 | [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | ![](https://img.shields.io/github/stars/Tenney95/AI-Canvas-tauri?style=flat-square) | ⭐ C | Local-first AI canvas for visual workflows, AI short drama, image/video generation, storyboarding and asset management. ComfyUI, AI agents, MCP & Blender. 本地优先 AI 画布：AI短剧、AI资产管理、图像/视频生成、分镜制作与视频剪辑。 |
 | [AI-Short-Drama-Studio](https://github.com/JerrIsTheBesta/AI-Short-Drama-Studio) | ![](https://img.shields.io/github/stars/JerrIsTheBesta/AI-Short-Drama-Studio?style=flat-square) | ⭐ C | 剧流 Studio：开源 AI短剧生成 / AI短剧工作台，支持 LLM、视觉理解、生图、图生视频、配音、字幕与视频剪辑。Open-source AI short drama and video workflow studio. |
@@ -189,6 +194,7 @@
 ## Programmatic Video Creation
 
 | Project | Stars | Grade | Description |
+| [rea-video](https://github.com/JuneYaooo/rea-video) | ![](https://img.shields.io/github/stars/JuneYaooo/rea-video?style=flat-square) | ⭐ C | 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot. |
 |---------|-------|-------|-------------|
 | [Remotion](https://github.com/remotion-dev/remotion) | ![](https://img.shields.io/github/stars/remotion-dev/remotion?style=flat-square) | ⭐ A | Create videos programmatically using React — server-side rendering + Lambda |
 | [Helios](https://github.com/BintzGavin/helios) | ![](https://img.shields.io/github/stars/BintzGavin/helios?style=flat-square) | ⭐ B | Browser-native video framework that leans on real Web Animations and WebCodecs instead of screenshot-style rendering, with CSS-friendly motion, diagnostics, benchmarks, and TypeScript docs. |
