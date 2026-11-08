@@ -103,6 +103,7 @@
 | [meiti-ai](https://github.com/zhuixin8/meiti-ai) | ![](https://img.shields.io/github/stars/zhuixin8/meiti-ai?style=flat-square) | ⭐ C | ALQQ · AI 自媒体内容运营平台｜一次创作，图文/动态/视频 一键分发 20+ 平台（抖音/小红书/B站/快手/视频号/头条/百家号/公众号/知乎/微博等）。AI写文·去AI味·热点选题·定时自动发布·多账号矩阵。完全免费，桌面端+网页端。 |
 | [SoloMCN](https://github.com/ymybxx/SoloMCN) | ![](https://img.shields.io/github/stars/ymybxx/SoloMCN?style=flat-square) | ⭐ C | 把 Claude Code 变成你的短视频团队：不搭工作流，直接让 Claude 干活，从国内热榜、推特热帖到抖音、小红书、B站、YouTube、推特发布。Turn Claude Code into your short-video team — no workflows, from trends and X posts to publishing. |
 | [postiz-cheap](https://github.com/SamurAIGPT/postiz-cheap) | ![](https://img.shields.io/github/stars/SamurAIGPT/postiz-cheap?style=flat-square) | ⭐ C | Free, open-source Postiz alternative: self-host a social media scheduler with an AI post writer, content calendar, and publishing across 8 platforms. MIT licensed; external provider charges may apply. |
+| [scrapeio-agent](https://github.com/xhoantran/scrapeio-agent) | ![](https://img.shields.io/github/stars/xhoantran/scrapeio-agent?style=flat-square) | ⭐ C | Agent skills for social media research: influencer discovery, creator vetting, competitor audits, transcripts, comments, trends, ad libraries. MCP server for TikTok, Instagram, YouTube, X and 29 more. |
 
 ## Social Media Crawlers
 
@@ -199,6 +200,7 @@
 |---------|-------|-------|-------------|
 | [Remotion](https://github.com/remotion-dev/remotion) | ![](https://img.shields.io/github/stars/remotion-dev/remotion?style=flat-square) | ⭐ A | Create videos programmatically using React — server-side rendering + Lambda |
 | [Helios](https://github.com/BintzGavin/helios) | ![](https://img.shields.io/github/stars/BintzGavin/helios?style=flat-square) | ⭐ B | Browser-native video framework that leans on real Web Animations and WebCodecs instead of screenshot-style rendering, with CSS-friendly motion, diagnostics, benchmarks, and TypeScript docs. |
+| [claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) | ![](https://img.shields.io/github/stars/digitalsamba/claude-code-video-toolkit?style=flat-square) | ⭐ C | Make videos with Claude Code: script, AI voiceover, music, video clips and render, on open-source models that cost cents |
 | [remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) | ![](https://img.shields.io/github/stars/DojoCodingLabs/remotion-superpowers?style=flat-square) | ⭐ C | 🎬 Claude Code plugin — full video production studio for Remotion. AI voiceovers, music, stock footage, image/video generation, TikTok captions, 3D, transitions & AI review loop. 5 MCP servers, 13 c... |
 
 ## Video Editing Libraries
