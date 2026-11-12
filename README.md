@@ -55,6 +55,7 @@
 | [vidknot](https://github.com/suonian/vidknot) | ![](https://img.shields.io/github/stars/suonian/vidknot?style=flat-square) | ⭐ C | VidkNot（影音笔记舱）— 一键从 11+ 自媒体平台（YouTube、B站、抖音、小红书、快手、TikTok、Twitter/X、Instagram、视频号、微博、Vimeo）提取视频笔记：下载音频、双 ASR 交叉校验、LLM 生成结构化笔记，同步到 Obsidian/飞书/Notion/语雀。Video Knowledge, Knotted. |
 | [multiplatform-downloader](https://github.com/Janusilver/multiplatform-downloader) | ![](https://img.shields.io/github/stars/Janusilver/multiplatform-downloader?style=flat-square) | ⭐ C | 多平台无水印下载器：抖音 / 小红书 / 快手 / B站 / YouTube / X (Twitter) / Instagram 一键下载（Python + tkinter GUI；Windows 完整实测，Linux 命令行可用） |
 | [xinli](https://github.com/zhuiguangAI/xinli) | ![](https://img.shields.io/github/stars/zhuiguangAI/xinli?style=flat-square) | ⭐ C | AI爆款视频生成系统，抖音直播 无人直播 AI直播 AI直播语音回复，全网支持主流平台：Tiktok/抖音/快手/视频号 /小红书/拼多多/美团/淘宝等。特色功能：一键obs实时去重、音画同步、数字人服务等 |
+| [article2media](https://github.com/threerocks/article2media) | ![](https://img.shields.io/github/stars/threerocks/article2media?style=flat-square) | ⭐ C | 把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。 |
 
 ## AI Text-to-Video Models
 
@@ -204,6 +205,7 @@
 | [Helios](https://github.com/BintzGavin/helios) | ![](https://img.shields.io/github/stars/BintzGavin/helios?style=flat-square) | ⭐ B | Browser-native video framework that leans on real Web Animations and WebCodecs instead of screenshot-style rendering, with CSS-friendly motion, diagnostics, benchmarks, and TypeScript docs. |
 | [claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) | ![](https://img.shields.io/github/stars/digitalsamba/claude-code-video-toolkit?style=flat-square) | ⭐ C | Make videos with Claude Code: script, AI voiceover, music, video clips and render, on open-source models that cost cents |
 | [remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) | ![](https://img.shields.io/github/stars/DojoCodingLabs/remotion-superpowers?style=flat-square) | ⭐ C | 🎬 Claude Code plugin — full video production studio for Remotion. AI voiceovers, music, stock footage, image/video generation, TikTok captions, 3D, transitions & AI review loop. 5 MCP servers, 13 c... |
+| [AIEVv2](https://github.com/notivn/AIEVv2) | ![](https://img.shields.io/github/stars/notivn/AIEVv2?style=flat-square) | ⭐ C | Automatic AI video editing: Claude directs HyperFrames (HTML + GSAP motion graphics) and Remotion (timeline assembly). Karaoke subtitles, kinetic typography, sound effects, a timeline editor, text-... |
 
 ## Video Editing Libraries
 
