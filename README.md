@@ -85,6 +85,7 @@
 | [uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) | ![](https://img.shields.io/github/stars/wideeyededi/uncensored-nsfw-ai-video-api?style=flat-square) | ⭐ C | Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分... |
 | [explainer-video](https://github.com/SpeedPainterOrg/explainer-video) | ![](https://img.shields.io/github/stars/SpeedPainterOrg/explainer-video?style=flat-square) | ⭐ C | Codex plugin for turning text, URLs, and documents into narrated hand-drawn explainer videos. |
 | [lindyson-ai](https://github.com/orylite/lindyson-ai) | ![](https://img.shields.io/github/stars/orylite/lindyson-ai?style=flat-square) | ⭐ C | AI video & image generation workspace for e-commerce teams, built on Volcengine Seedance / Seedream, with MCP for ChatGPT & Codex · 面向电商团队的 AI 视频与图片生成工作台 |
+| [otopilot](https://github.com/wj-sidiss/otopilot) | ![](https://img.shields.io/github/stars/wj-sidiss/otopilot?style=flat-square) | ⭐ C | Turn a topic into a finished YouTube Short/video: script, free & CC0 images, voice-over, subtitles, thumbnail. Runs locally, no key needed. Use with Claude Code / Codex. 15-language UI. MIT |
 
 ## Social Media Automation
 
