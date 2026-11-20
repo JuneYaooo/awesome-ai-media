@@ -182,6 +182,7 @@
 | [AI-Short-Drama-Studio](https://github.com/JerrIsTheBesta/AI-Short-Drama-Studio) | ![](https://img.shields.io/github/stars/JerrIsTheBesta/AI-Short-Drama-Studio?style=flat-square) | ⭐ C | 剧流 Studio：开源 AI短剧生成 / AI短剧工作台，支持 LLM、视觉理解、生图、图生视频、配音、字幕与视频剪辑。Open-source AI short drama and video workflow studio. |
 | [novelvids](https://github.com/Anning01/novelvids) | ![](https://img.shields.io/github/stars/Anning01/novelvids?style=flat-square) | ⭐ C | 从故事创作、角色资产管理、分镜设计，到 AI 图片与视频生成，打造完整的开源 AI 漫剧与短剧创作工作台。支持创作助手、无限画布、本地部署与多模型接入。 |
 | [aid-studio](https://github.com/shijue-aid/aid-studio) | ![](https://img.shields.io/github/stars/shijue-aid/aid-studio?style=flat-square) | ⭐ C | 开源AI漫剧、AI短剧、AI电影与AI漫画创作平台，支持剧本、角色场景、智能分镜、图片与视频生成、配音及成片预览，多模型接入，可自行部署。预：无限画布、导演台。 |
+| [OpenMontage](https://github.com/charliewwdev/OpenMontage) | ![](https://img.shields.io/github/stars/charliewwdev/OpenMontage?style=flat-square) | ⭐ C | Open-source AI studio for short dramas, short videos and product ads: one-line idea → script, cast, storyboard, video, voice, edit. Self-hosted. | AI 短剧/短视频工坊 |
 
 ## AI Video Analysis and Notes
 
