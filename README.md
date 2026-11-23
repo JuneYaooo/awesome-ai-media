@@ -163,6 +163,7 @@
 | [social-media-toolkit](https://github.com/risingjerry/social-media-toolkit) | ![](https://img.shields.io/github/stars/risingjerry/social-media-toolkit?style=flat-square) | ⭐ C | Public Python SDK, CLI, and MCP server for extracting metadata, text, timed transcripts, media, and supported comments from Douyin, RedNote, Bilibili, and YouTube. |
 | [AiNiee](https://github.com/NEKOparapa/AiNiee) | ![](https://img.shields.io/github/stars/NEKOparapa/AiNiee?style=flat-square) | ⭐ C | 一款专注于 AI 多模态翻译的工具，一键自动翻译 RPG/SLG 游戏、Epub/TXT 小说、PDF/Word/MD 文档、Srt/Ass/Vtt 字幕，以及漫画图片、音频与视频等内容。 |
 | [capcut-pro-malelin-video-editor](https://github.com/mahmed9321/capcut-pro-malelin-video-editor) | ![](https://img.shields.io/github/stars/mahmed9321/capcut-pro-malelin-video-editor?style=flat-square) | ⭐ C | Professional video editing with advanced timeline and effects tools. |
+| [ASMRTranslator-bin](https://github.com/wanasummer/ASMRTranslator-bin) | ![](https://img.shields.io/github/stars/wanasummer/ASMRTranslator-bin?style=flat-square) | ⭐ C | 🎧 日文 ASMR / 同人音声 AI 翻译、中文字幕生成与中文配音工具（支持无字幕语音识别打轴、潜意识同传/同声配音、双轨时间轴音频编排与批量导出） | Japanese ASMR & Voice Drama AI Subtitle Translator and Chinese Dubbing Studio for Windows. |
 
 ## AI Short Drama Generation
 
@@ -185,6 +186,7 @@
 | [novelvids](https://github.com/Anning01/novelvids) | ![](https://img.shields.io/github/stars/Anning01/novelvids?style=flat-square) | ⭐ C | 从故事创作、角色资产管理、分镜设计，到 AI 图片与视频生成，打造完整的开源 AI 漫剧与短剧创作工作台。支持创作助手、无限画布、本地部署与多模型接入。 |
 | [aid-studio](https://github.com/shijue-aid/aid-studio) | ![](https://img.shields.io/github/stars/shijue-aid/aid-studio?style=flat-square) | ⭐ C | 开源AI漫剧、AI短剧、AI电影与AI漫画创作平台，支持剧本、角色场景、智能分镜、图片与视频生成、配音及成片预览，多模型接入，可自行部署。预：无限画布、导演台。 |
 | [OpenMontage](https://github.com/charliewwdev/OpenMontage) | ![](https://img.shields.io/github/stars/charliewwdev/OpenMontage?style=flat-square) | ⭐ C | Open-source AI studio for short dramas, short videos and product ads: one-line idea → script, cast, storyboard, video, voice, edit. Self-hosted. | AI 短剧/短视频工坊 |
+| [Jellyfish](https://github.com/Forget-C/Jellyfish) | ![](https://img.shields.io/github/stars/Forget-C/Jellyfish?style=flat-square) | ⭐ C | 端到端的AI短剧生成｜An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export. |
 
 ## AI Video Analysis and Notes
 
