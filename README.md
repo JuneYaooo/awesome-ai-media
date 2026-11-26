@@ -164,6 +164,7 @@
 | [AiNiee](https://github.com/NEKOparapa/AiNiee) | ![](https://img.shields.io/github/stars/NEKOparapa/AiNiee?style=flat-square) | ⭐ C | 一款专注于 AI 多模态翻译的工具，一键自动翻译 RPG/SLG 游戏、Epub/TXT 小说、PDF/Word/MD 文档、Srt/Ass/Vtt 字幕，以及漫画图片、音频与视频等内容。 |
 | [capcut-pro-malelin-video-editor](https://github.com/mahmed9321/capcut-pro-malelin-video-editor) | ![](https://img.shields.io/github/stars/mahmed9321/capcut-pro-malelin-video-editor?style=flat-square) | ⭐ C | Professional video editing with advanced timeline and effects tools. |
 | [ASMRTranslator-bin](https://github.com/wanasummer/ASMRTranslator-bin) | ![](https://img.shields.io/github/stars/wanasummer/ASMRTranslator-bin?style=flat-square) | ⭐ C | 🎧 日文 ASMR / 同人音声 AI 翻译、中文字幕生成与中文配音工具（支持无字幕语音识别打轴、潜意识同传/同声配音、双轨时间轴音频编排与批量导出） | Japanese ASMR & Voice Drama AI Subtitle Translator and Chinese Dubbing Studio for Windows. |
+| [openshorts](https://github.com/mutonby/openshorts) | ![](https://img.shields.io/github/stars/mutonby/openshorts?style=flat-square) | ⭐ C | Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU s... |
 
 ## AI Short Drama Generation
 
