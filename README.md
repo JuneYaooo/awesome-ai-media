@@ -86,6 +86,7 @@
 | [explainer-video](https://github.com/SpeedPainterOrg/explainer-video) | ![](https://img.shields.io/github/stars/SpeedPainterOrg/explainer-video?style=flat-square) | ⭐ C | Codex plugin for turning text, URLs, and documents into narrated hand-drawn explainer videos. |
 | [lindyson-ai](https://github.com/orylite/lindyson-ai) | ![](https://img.shields.io/github/stars/orylite/lindyson-ai?style=flat-square) | ⭐ C | AI video & image generation workspace for e-commerce teams, built on Volcengine Seedance / Seedream, with MCP for ChatGPT & Codex · 面向电商团队的 AI 视频与图片生成工作台 |
 | [otopilot](https://github.com/wj-sidiss/otopilot) | ![](https://img.shields.io/github/stars/wj-sidiss/otopilot?style=flat-square) | ⭐ C | Turn a topic into a finished YouTube Short/video: script, free & CC0 images, voice-over, subtitles, thumbnail. Runs locally, no key needed. Use with Claude Code / Codex. 15-language UI. MIT |
+| [moonreel](https://github.com/siri2moon/moonreel) | ![](https://img.shields.io/github/stars/siri2moon/moonreel?style=flat-square) | ⭐ C | Open-source Meta Muse video generator: no Muse video API yet, so MoonReel automates muse.ai for you. One idea in, a scripted, subtitled short video out for TikTok, Reels, Shorts and YouTube. |
 
 ## Social Media Automation
 
@@ -164,6 +165,7 @@
 | [AiNiee](https://github.com/NEKOparapa/AiNiee) | ![](https://img.shields.io/github/stars/NEKOparapa/AiNiee?style=flat-square) | ⭐ C | 一款专注于 AI 多模态翻译的工具，一键自动翻译 RPG/SLG 游戏、Epub/TXT 小说、PDF/Word/MD 文档、Srt/Ass/Vtt 字幕，以及漫画图片、音频与视频等内容。 |
 | [capcut-pro-malelin-video-editor](https://github.com/mahmed9321/capcut-pro-malelin-video-editor) | ![](https://img.shields.io/github/stars/mahmed9321/capcut-pro-malelin-video-editor?style=flat-square) | ⭐ C | Professional video editing with advanced timeline and effects tools. |
 | [ASMRTranslator-bin](https://github.com/wanasummer/ASMRTranslator-bin) | ![](https://img.shields.io/github/stars/wanasummer/ASMRTranslator-bin?style=flat-square) | ⭐ C | 🎧 日文 ASMR / 同人音声 AI 翻译、中文字幕生成与中文配音工具（支持无字幕语音识别打轴、潜意识同传/同声配音、双轨时间轴音频编排与批量导出） | Japanese ASMR & Voice Drama AI Subtitle Translator and Chinese Dubbing Studio for Windows. |
+| [jav-sub](https://github.com/jaykwok/jav-sub) | ![](https://img.shields.io/github/stars/jaykwok/jav-sub?style=flat-square) | ⭐ C | 为日语视频一键生成日文、中文或双语 SRT 字幕。默认内置本地翻译（Hy-MT3-7B Q4 + CUDA llama.cpp）开箱即用，支持 Qwen3-ASR 识别、字词级时间轴对齐、OpenAI 兼容 API 与在线一键升级，适用于 Windows + NVIDIA 显卡。 |
 | [openshorts](https://github.com/mutonby/openshorts) | ![](https://img.shields.io/github/stars/mutonby/openshorts?style=flat-square) | ⭐ C | Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU s... |
 
 ## AI Short Drama Generation
